@@ -78,6 +78,14 @@ Then edit `voiceset.yml`:
   window, and a short reference leaves the whole clip in one pass
 - per speaker: `molana_id` — the speaker column of molana's training list for
   the same voice. `make_list.py` refuses to run until it is set
+- per speaker: `kokoro_speed` — below 1 is slower. It is set so the English
+  matches the speaker's Persian in syllables per second of speech; English
+  still *sounds* faster, since it packs more consonants into a syllable and
+  squeezes its unstressed ones. Kokoro rounds every phone to whole 25 ms frames,
+  so the effect is smaller than the number and uneven below ~0.85: measure the
+  rate rather than trust the factor. Each clip's speed is kept in the manifest,
+  and `synth.py` says when clips on disk were made at another speed — they are
+  not redone until you delete them
 
 ## 3. Run
 

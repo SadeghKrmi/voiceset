@@ -32,7 +32,7 @@ DEFAULT_CONFIG = ROOT / "voiceset.yml"
 # Kokoro speaks at 24 kHz, and so is molana trained.
 SAMPLE_RATE = 24000
 
-FIELDS = ["filename", "speaker", "category", "text", "kokoro_voice", "phonemes",
+FIELDS = ["filename", "speaker", "category", "text", "kokoro_voice", "kokoro_speed", "phonemes",
           "duration_s", "stt_text", "cer", "transcript", "status", "note"]
 
 
@@ -68,6 +68,17 @@ def load_config(path) -> dict:
         for key in ("reference", "checkpoint", "config"):
             speaker[key] = resolve(speaker.get(key))
     return cfg
+
+
+def kokoro_speed(cfg, speaker: str) -> float:
+    """The speaker's Kokoro speed: its own `kokoro_speed`, else `kokoro.speed`, else 1.
+
+    Below 1 is slower. Kokoro's duration model decides what to lengthen (vowels
+    and pauses more than consonants), which is why speed is set here and not by
+    stretching the audio afterwards.
+    """
+    own = cfg["speakers"][speaker].get("kokoro_speed")
+    return float(own if own is not None else cfg.get("kokoro", {}).get("speed", 1.0))
 
 
 # ---------------------------------------------------------------- sentences

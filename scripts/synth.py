@@ -17,8 +17,8 @@ import warnings
 import soundfile as sf
 from tqdm import tqdm
 
-from common import (SAMPLE_RATE, Manifest, clips, kokoro_wav, load_config, parse_args,
-                    reject, sentence_problem)
+from common import (SAMPLE_RATE, Manifest, clips, kokoro_speed, kokoro_wav, load_config,
+                    parse_args, reject, sentence_problem)
 
 SAVE_EVERY = 50
 
@@ -42,6 +42,7 @@ def main():
             added += 1
     manifest.save()
     print(f"manifest: {added} new clips, {skipped} sentences skipped (run lint.py for why)")
+    warn_other_speeds(cfg, manifest)
 
     todo = manifest.at("", args.speaker, args.limit)
     if not todo:
@@ -53,17 +54,29 @@ def main():
     kokoro = cfg.get("kokoro", {})
     pipeline = KPipeline(lang_code="a", repo_id=kokoro.get("repo_id", "hexgrad/Kokoro-82M"),
                          device=args.device)
-    speed = kokoro.get("speed", 1.0)
 
     try:
         for n, row in enumerate(tqdm(todo, desc="kokoro"), 1):
-            synthesize(pipeline, cfg, row, speed)
+            synthesize(pipeline, cfg, row, kokoro_speed(cfg, row["speaker"]))
             if n % SAVE_EVERY == 0:
                 manifest.save()
     finally:
         manifest.save()
     done = sum(r["status"] == "synth" for r in todo)
     print(f"synthesized {done} of {len(todo)}; the rest are rejected, see `note`")
+
+
+def warn_other_speeds(cfg, manifest):
+    """Clips already spoken at another speed than the config's are not redone:
+    say so, since changing the speed would otherwise seem to have no effect."""
+    other = [r for r in manifest.rows.values()
+             if r.get("status") not in ("", "rejected")
+             and r.get("kokoro_speed") != str(kokoro_speed(cfg, r["speaker"]))]
+    if other:
+        speakers = sorted({r["speaker"] for r in other})
+        print(f"note: {len(other)} clips ({', '.join(speakers)}) were made at another speed "
+              "than the config's, or before speeds were recorded. They are kept; to redo "
+              "them, delete the output folder (or their rows) and run again.")
 
 
 def synthesize(pipeline, cfg, row, speed):
@@ -81,6 +94,7 @@ def synthesize(pipeline, cfg, row, speed):
     path = kokoro_wav(cfg, row)
     path.parent.mkdir(parents=True, exist_ok=True)
     sf.write(path, results[0].audio.cpu().numpy(), SAMPLE_RATE, subtype="PCM_16")
+    row["kokoro_speed"] = str(speed)
     row["phonemes"] = results[0].phonemes
     row["status"] = "synth"
 
