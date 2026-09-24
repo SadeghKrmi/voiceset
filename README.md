@@ -64,7 +64,7 @@ git clone https://github.com/Plachtaa/seed-vc /workspace/seed-vc
 pip install -r /workspace/seed-vc/requirements.txt
 
 # this project
-git clone <voiceset> /workspace/voiceset       # or copy the folder
+git clone https://github.com/SadeghKrmi/voiceset /workspace/voiceset
 pip install -r /workspace/voiceset/requirements.txt
 ```
 
