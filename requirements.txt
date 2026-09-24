@@ -1,0 +1,21 @@
+# Install on top of the environment seed-vc v1 runs in (the one you fine-tuned
+# in, or `pip install -r <seed-vc>/requirements.txt`). seed-vc pins torch 2.4.0,
+# transformers 4.46.3, numpy 1.26.4 and librosa 0.10.2; everything below was
+# tested with exactly those.
+#
+# pip will warn that onnxruntime wants protobuf>=4.25.8 while seed-vc's
+# descript-audio-codec holds it at 3.19. Harmless here: faster-whisper only
+# needs onnxruntime for its VAD, which verify.py does not use.
+
+kokoro==0.9.4
+misaki[en]==0.9.4
+# misaki's tagger; it would pip-install this itself on first use
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+faster-whisper==1.2.1
+pyloudnorm==0.2.0
+num2words==0.5.14
+PyYAML==6.0.3
+soundfile==0.14.0
+tqdm==4.70.1
+# to_molana writes the transcripts. make_list.py records this commit in meta.json.
+vaguye @ git+https://github.com/SadeghKrmi/vaguye@559237d631945add60fa8edcba6af92a3dede129

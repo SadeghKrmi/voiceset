@@ -1,0 +1,10 @@
+# English that turns up in Persian writing about technology.
+# One sentence per line; the file name is the category. No digits or symbols.
+The new update fixed a bug in the Android app.
+Please restart your laptop and connect to the Wi-Fi network again.
+The API sends the data over HTTPS to a cloud server.
+She installed Python and wrote a small script to rename her files.
+Our startup moved its database to a faster server last week.
+Clear the cache in your browser, then log in with your new password.
+The software engineer pushed the code to GitHub before the deadline.
+This keyboard shortcut opens a new tab in Google Chrome.

@@ -1,0 +1,40 @@
+# voiceset: English sentences -> Kokoro -> seed-vc -> Ganji / Parimon clips for molana.
+# Paths are relative to this file unless absolute.
+
+output: output          # manifest.csv, <speaker>/wavs/, _kokoro/, molana/
+sentences: sentences    # *.txt, one sentence per line; the file name is the category
+
+# split: each sentence goes to one speaker (more text variety for the same hours)
+# all:   every sentence to every speaker
+assign: split
+
+kokoro:
+  repo_id: hexgrad/Kokoro-82M
+  speed: 1.0
+
+seed_vc:
+  repo: /workspace/seed-vc      # a clone of github.com/Plachtaa/seed-vc (v1)
+  diffusion_steps: 30           # inference.py's default; 25-50 is its usual range
+  inference_cfg_rate: 0.7
+  fp16: true
+  loudness: -18.0               # LUFS, as ttsets chunks molana's recordings
+
+verify:
+  model: large-v3               # faster-whisper; base.en is enough for a CPU trial
+  max_cer: 0.05                 # character error rate on letters only
+  min_seconds: 1.0
+  max_seconds: 12.5             # molana's training list stops here
+
+speakers:
+  ganji:                        # ~99 Hz
+    molana_id: null             # the speaker column molana's train list uses for this voice
+    kokoro_voices: [am_liam]
+    reference: refs/ganji.wav   # 5-10 s of clean, neutral speech by the speaker
+    checkpoint: /workspace/runs/ganji/ft_model.pth    # null = seed-vc's stock zero-shot model
+    config: /workspace/runs/ganji/config_dit_mel_seed_uvit_whisper_small_wavenet.yml
+  parimon:                      # ~196 Hz
+    molana_id: null
+    kokoro_voices: [af_heart]
+    reference: refs/parimon.wav
+    checkpoint: /workspace/runs/parimon/ft_model.pth
+    config: /workspace/runs/parimon/config_dit_mel_seed_uvit_whisper_small_wavenet.yml
