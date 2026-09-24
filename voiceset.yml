@@ -29,12 +29,12 @@ speakers:
   ganji:                        # ~99 Hz
     molana_id: null             # the speaker column molana's train list uses for this voice
     kokoro_voices: [am_liam]
-    reference: refs/ganji.wav   # 5-10 s of clean, neutral speech by the speaker
-    checkpoint: /workspace/runs/ganji/ft_model.pth    # null = seed-vc's stock zero-shot model
+    reference: refs/ganji-ref-speech.wav   # 5-10 s of clean, neutral speech by the speaker
+    checkpoint: /workspace/runs/ganji/ganji_ft_model_step_2000.pth    # null = seed-vc's stock zero-shot model
     config: /workspace/runs/ganji/config_dit_mel_seed_uvit_whisper_small_wavenet.yml
   parimon:                      # ~196 Hz
     molana_id: null
     kokoro_voices: [af_heart]
-    reference: refs/parimon.wav
-    checkpoint: /workspace/runs/parimon/ft_model.pth
+    reference: refs/parimon-ref-speech.wav
+    checkpoint: /workspace/runs/parimon/parimon_ft_model_step_2000.pth
     config: /workspace/runs/parimon/config_dit_mel_seed_uvit_whisper_small_wavenet.yml
