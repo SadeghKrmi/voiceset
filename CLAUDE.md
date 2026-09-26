@@ -8,6 +8,8 @@ training lists. README.md is the runbook.
   naming/assignment, the manifest, transcript conversion. Every stage imports it.
 - `scripts/{lint,synth,convert,verify,make_list,status}.py` — one stage each,
   run as `python scripts/<stage>.py [--config] [--speaker] [--limit]`.
+- `scripts/tune.py` — seed-vc settings compared on a few sentences, in
+  `<output>/_tune/`; outside the pipeline, it never touches the manifest.
 - `voiceset.yml` — the config; paths resolve against its folder.
 - `sentences/*.txt` — input, one sentence per line, file name = category.
 - `output/manifest.csv` — pipeline state; status flows

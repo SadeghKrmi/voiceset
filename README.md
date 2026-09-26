@@ -95,10 +95,26 @@ Then edit `voiceset.yml`:
 
 ## 3. Run
 
-A trial first — then **listen** to `output/<speaker>/wavs/` before the full run:
+First settle seed-vc's settings on a few sentences:
 
 ```bash
 cd /workspace/voiceset
+python scripts/tune.py --steps 10 30 50        # --cfg-rates 0.5 0.7 tries those too
+```
+
+It converts the same 8 sentences (one per file) in each voice with every
+setting, starting the diffusion from the same seeded noise, and prints per
+setting the seconds per clip and the full run's hours at that speed, Whisper's
+error rate and how many clips verify.py would reject, and each voice's CAM++
+similarity to its reference (Kokoro's own clip is the baseline). It writes
+`output/_tune/index.html` to listen side by side, the reference first, and
+touches nothing else. Put the setting you prefer in `seed_vc.diffusion_steps`.
+
+Then a trial — and **listen** to `output/<speaker>/wavs/` before the full run.
+`--limit` takes the first clips in the manifest, which are the first sentences
+of the first file:
+
+```bash
 python scripts/synth.py   --limit 10
 python scripts/convert.py --limit 10
 python scripts/verify.py
