@@ -46,6 +46,8 @@ def parse_args(description: str, extra=None) -> argparse.Namespace:
                         help=f"config file (default: {DEFAULT_CONFIG.name})")
     parser.add_argument("--speaker", help="only this speaker's clips")
     parser.add_argument("--limit", type=int, help="at most this many clips, for a trial run")
+    parser.add_argument("--shard", type=parse_shard, metavar="I/N",
+                        help="only shard I of N, to run N processes side by side (e.g. 1/3)")
     if extra:
         extra(parser)
     return parser.parse_args()
@@ -187,16 +189,31 @@ def molana_transcript(phonemes: str) -> str:
 
 
 class Manifest:
+    """The manifest, safe to share between processes running at the same time.
+
+    Each process writes back only the rows it changed, over the file as it is
+    at that moment and under a lock, so `convert.py --shard 1/2` and `2/2` can
+    run side by side, or verify.py while convert.py works, without one saving
+    over the other's progress. Rows the process didn't change are refreshed
+    in place from the file.
+    """
+
     def __init__(self, output: Path):
         self.path = Path(output) / "manifest.csv"
         self.fields = list(FIELDS)
         self.rows = {}
-        if self.path.exists():
-            with open(self.path, newline="", encoding="utf-8") as handle:
-                reader = csv.DictReader(handle)
-                self.fields += [f for f in reader.fieldnames or [] if f not in self.fields]
-                for row in reader:
-                    self.rows[row["filename"]] = row
+        self._saved = {}        # each row as this process last read or wrote it
+        for name, row in self._read().items():
+            self.rows[name] = row
+            self._saved[name] = dict(row)
+
+    def _read(self) -> dict:
+        if not self.path.exists():
+            return {}
+        with open(self.path, newline="", encoding="utf-8") as handle:
+            reader = csv.DictReader(handle)
+            self.fields += [f for f in reader.fieldnames or [] if f not in self.fields]
+            return {row["filename"]: row for row in reader}
 
     def add(self, row: dict) -> bool:
         """Add a new clip; False if it is already here."""
@@ -205,21 +222,58 @@ class Manifest:
         self.rows[row["filename"]] = {**dict.fromkeys(self.fields, ""), **row}
         return True
 
-    def at(self, status: str, speaker: str = None, limit: int = None):
-        """The rows waiting at `status`, optionally one speaker's, at most `limit`."""
+    def at(self, status: str, speaker: str = None, limit: int = None, shard=None):
+        """The rows waiting at `status`: optionally one speaker's, one shard's
+        (see `in_shard`), at most `limit`."""
         rows = [r for r in self.rows.values()
-                if r.get("status", "") == status and (speaker is None or r["speaker"] == speaker)]
+                if r.get("status", "") == status and (speaker is None or r["speaker"] == speaker)
+                and in_shard(r["filename"], shard)]
         return rows[:limit] if limit else rows
 
     def save(self):
-        """Write the manifest; a crash mid-write leaves the previous one intact."""
+        """Merge this process's changes into the file and write it; a crash
+        mid-write leaves the previous one intact."""
+        import fcntl
         self.path.parent.mkdir(parents=True, exist_ok=True)
-        temporary = self.path.with_suffix(".csv.tmp")
-        with open(temporary, "w", newline="", encoding="utf-8") as handle:
-            writer = csv.DictWriter(handle, fieldnames=self.fields, extrasaction="ignore")
-            writer.writeheader()
-            writer.writerows(self.rows.values())
-        os.replace(temporary, self.path)
+        with open(self.path.with_suffix(".csv.lock"), "w") as lock:
+            fcntl.flock(lock, fcntl.LOCK_EX)
+            on_disk = self._read()
+            for name, row in self.rows.items():
+                mine = name in self._saved and row != self._saved[name]
+                new = name not in self._saved and name not in on_disk
+                if not (mine or new) and name in on_disk:
+                    row.clear()                 # in place: stages hold these dicts
+                    row.update(on_disk[name])
+            for name, row in on_disk.items():   # added by another process
+                self.rows.setdefault(name, row)
+            temporary = self.path.with_suffix(".csv.tmp")
+            with open(temporary, "w", newline="", encoding="utf-8") as handle:
+                writer = csv.DictWriter(handle, fieldnames=self.fields, extrasaction="ignore")
+                writer.writeheader()
+                writer.writerows(self.rows.values())
+            os.replace(temporary, self.path)
+        self._saved = {name: dict(row) for name, row in self.rows.items()}
+
+
+def in_shard(filename: str, shard) -> bool:
+    """Whether the clip belongs to shard (i, n): a fixed 1-in-n share, by a hash
+    of its file name, so every process started with the same n splits the clips
+    the same way. No shard is every clip."""
+    if shard is None:
+        return True
+    index, count = shard
+    return int(hashlib.sha1(filename.encode()).hexdigest()[:8], 16) % count == index - 1
+
+
+def parse_shard(value: str):
+    """--shard 2/3 -> (2, 3)."""
+    try:
+        index, count = (int(part) for part in value.split("/"))
+    except ValueError:
+        raise argparse.ArgumentTypeError(f"expected i/n, like 1/3, not {value!r}")
+    if not 1 <= index <= count:
+        raise argparse.ArgumentTypeError(f"{value}: i must be between 1 and n")
+    return index, count
 
 
 def reject(row: dict, reason: str):

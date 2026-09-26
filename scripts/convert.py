@@ -176,7 +176,7 @@ def main():
     args = parse_args(__doc__.splitlines()[1])
     cfg = load_config(args.config)
     manifest = Manifest(cfg["output"])
-    todo = manifest.at("synth", args.speaker, args.limit)
+    todo = manifest.at("synth", args.speaker, args.limit, args.shard)
     if not todo:
         print("nothing to convert")
         return

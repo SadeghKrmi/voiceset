@@ -44,7 +44,7 @@ def main():
     print(f"manifest: {added} new clips, {skipped} sentences skipped (run lint.py for why)")
     warn_other_speeds(cfg, manifest)
 
-    todo = manifest.at("", args.speaker, args.limit)
+    todo = manifest.at("", args.speaker, args.limit, args.shard)
     if not todo:
         print("nothing to synthesize")
         return

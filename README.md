@@ -124,6 +124,21 @@ python scripts/status.py
 The full run is the same commands without `--limit`. Any stage also takes
 `--speaker ganji`.
 
+To go faster, run several processes side by side — on one GPU while it has the
+memory (each seed-vc process takes a few GB; `nvidia-smi` shows how busy it is),
+or one per GPU with `CUDA_VISIBLE_DEVICES`:
+
+```bash
+python scripts/convert.py --shard 1/3 > convert1.log 2>&1 &
+python scripts/convert.py --shard 2/3 > convert2.log 2>&1 &
+python scripts/convert.py --shard 3/3 > convert3.log 2>&1 &
+wait
+```
+
+Each process takes a fixed third of the clips (by a hash of the file name), and
+the manifest merges what each one saves, so verify.py can run alongside too —
+run it once more at the end for the clips converted after it started.
+
 Optionally, before `make_list.py`, score the clips with ttsets' DNSMOS filter.
 The output uses ttsets' layout, so it runs unchanged, on CPU, wherever ttsets is
 installed — here, after copying `output/` back:

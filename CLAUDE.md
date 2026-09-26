@@ -14,6 +14,8 @@ training lists. README.md is the runbook.
 - `sentences/*.txt` — input, one sentence per line, file name = category.
 - `output/manifest.csv` — pipeline state; status flows
   `"" → synth → converted → ok`, or `rejected` with the reason in `note`.
+  Processes can share it: `Manifest.save` merges only the rows it changed into
+  the file, under a lock, so stages run side by side (`--shard i/n`).
 
 ## Invariants
 
