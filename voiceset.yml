@@ -4,7 +4,8 @@
 output: output          # manifest.csv, <speaker>/wavs/, _kokoro/, molana/
 sentences: sentences    # *.txt, one sentence per line; the file name is the category
 
-# split: each sentence goes to one speaker (more text variety for the same hours)
+# split: each sentence goes to one speaker (more text variety for the same hours),
+#        in proportion to the speakers' `share`
 # all:   every sentence to every speaker
 assign: split
 
@@ -28,6 +29,8 @@ verify:
 speakers:
   ganji:                        # ~99 Hz
     molana_id: 0                # the speaker column molana's train list uses for this voice
+    share: 4                    # 4 : 1 follows their Persian clips (27.7k : 5.6k), so English is
+                                # a like share of each voice's data: ~21% and ~24% at 9k sentences
     kokoro_voices: [am_liam]
     kokoro_speed: 0.88          # am_liam 5.06 -> 4.68 syllables/s; Ganji's Persian ~4.65
     reference: refs/ganji-ref-speech.wav   # 5-10 s of clean, neutral speech by the speaker
@@ -35,6 +38,7 @@ speakers:
     config: /workspace/runs/ganji/config_dit_mel_seed_uvit_whisper_small_wavenet.yml
   parimon:                      # ~196 Hz
     molana_id: 1
+    share: 1
     kokoro_voices: [af_heart]
     kokoro_speed: 0.95          # af_heart 5.15 -> 5.02 syllables/s; Parimon's Persian 5.01
     reference: refs/parimon-ref-speech.wav

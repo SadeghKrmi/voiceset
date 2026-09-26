@@ -1,6 +1,6 @@
 # voiceset — English clips in Ganji's and Parimon's voices, for molana
 
-molana has only ever heard Persian, so 22 of the symbols vaguye's native English
+molana has only ever heard Persian, so 20 of the symbols vaguye's native English
 emits (`θ ð w ŋ ɹ ʊ ʌ ɜ`, the diphthongs `A I O W Y`, …) are sounds it has never
 made. This builds the English half of a mixed fine-tuning set:
 
@@ -53,8 +53,10 @@ not know (Kokoro still says them, from espeak-ng's guess — listen to a few),
 the split between speakers, and how often each new symbol occurs, rarest first.
 
 Each sentence goes to **one** speaker (`assign: split`), chosen by a hash of its
-text, as is the Kokoro voice from that speaker's list — so settle the speakers
-before generating: adding one later reassigns sentences.
+text in proportion to the speakers' `share` (Ganji 4, Parimon 1, as their Persian
+clips are 27.7k to 5.6k), as is the Kokoro voice from that speaker's list — so
+settle the speakers and shares before generating: changing either later
+reassigns sentences.
 
 ## 2. Set up the GPU box
 
@@ -78,6 +80,8 @@ Then edit `voiceset.yml`:
   window, and a short reference leaves the whole clip in one pass
 - per speaker: `molana_id` — the speaker column of molana's training list for
   the same voice. `make_list.py` refuses to run until it is set
+- per speaker: `share` — a whole number, the speaker's part of the sentences
+  under `assign: split` (default 1)
 - per speaker: `kokoro_speed` — below 1 is slower. It is set so the English
   matches the speaker's Persian in syllables per second of speech; English
   still *sounds* faster, since it packs more consonants into a syllable and
@@ -140,8 +144,9 @@ The transcript is **what Kokoro said**, not what vaguye would say for the text:
 
 - Kokoro v1.0's two private symbols become vaguye's: the American flap `T` →
   `ɾ`, the article `ɐ` → `ə`
-- then vaguye's `to_molana`: `ᵊ` → `ə`, `i u` → `iː uː`, the stress mark moved
-  to the syllable onset
+- then vaguye's `to_molana`: `ᵊ` → `ə`, `i u` → `iː uː`, `ʧ ʤ` → `tʃ dʒ` (the
+  symbols molana already has for Persian چ ج), the stress mark moved to the
+  syllable onset
 
 So misaki's heteronym choice ("I **read** it yesterday" → `ɹɛd`) and espeak-ng's
 guesses are transcribed as spoken. Where vaguye would say a word differently at

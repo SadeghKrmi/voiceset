@@ -18,4 +18,4 @@ PyYAML==6.0.3
 soundfile==0.14.0
 tqdm==4.70.1
 # to_molana writes the transcripts. make_list.py records this commit in meta.json.
-vaguye @ git+https://github.com/SadeghKrmi/vaguye@559237d631945add60fa8edcba6af92a3dede129
+vaguye @ git+https://github.com/SadeghKrmi/vaguye@1f6194060cb572b7aa106f1a873dee63299fdda5

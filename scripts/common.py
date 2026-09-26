@@ -128,35 +128,48 @@ def clips(cfg):
 
     A clip's name comes from a hash of its text, so it survives the sentence
     moving to another line or file. With `assign: split` the same hash picks
-    the one speaker who says it, and the Kokoro voice from that speaker's list;
-    `assign: all` gives every sentence to every speaker. Adding a speaker to a
-    `split` config reassigns sentences, so settle the speakers first.
+    the one speaker who says it, in proportion to the speakers' `share`s, and
+    the Kokoro voice from that speaker's list; `assign: all` gives every
+    sentence to every speaker. Adding a speaker to a `split` config, or changing
+    a share, reassigns sentences, so settle both first.
     """
     speakers = list(cfg["speakers"])
+    # One slot per unit of share, in config order: shares 4 and 1 give
+    # [ganji, ganji, ganji, ganji, parimon]. All 1 is plain round-robin.
+    slots = [s for s in speakers for _ in range(speaker_share(cfg, s))]
     every = cfg.get("assign", "split") == "all"
     for category, _, text in read_sentences(cfg["sentences"]):
         digest = hashlib.sha1(text.encode("utf-8")).hexdigest()
         number = int(digest[:12], 16)
-        for speaker in speakers if every else [speakers[number % len(speakers)]]:
+        for speaker in speakers if every else [slots[number % len(slots)]]:
             voices = cfg["speakers"][speaker]["kokoro_voices"]
             yield {
                 "filename": f"en_{speaker}_{digest[:10]}.wav",
                 "speaker": speaker,
                 "category": category,
                 "text": text,
-                "kokoro_voice": voices[number // len(speakers) % len(voices)],
+                "kokoro_voice": voices[number // len(slots) % len(voices)],
             }
+
+
+def speaker_share(cfg, speaker: str) -> int:
+    """The speaker's `share` of the sentences under `assign: split`: a whole number, default 1."""
+    share = cfg["speakers"][speaker].get("share", 1)
+    if not isinstance(share, int) or share < 1:
+        raise ValueError(f"speakers.{speaker}.share must be a whole number of at least 1, not {share!r}")
+    return share
 
 
 # ---------------------------------------------------------------- transcripts
 
 # The native-English symbols the Persian training data never has (see vaguye's
-# english/native): the English set is what has to teach each of them.
-NEW_SYMBOLS = "AIOWYwðŋɑɔəɛɜɪɹɾʊʌʤʧθᵻ"
+# english/native): the English set is what has to teach each of them. ʧ ʤ are
+# not among them: to_molana writes them tʃ dʒ, as Persian writes چ ج.
+NEW_SYMBOLS = "AIOWYwðŋɑɔəɛɜɪɹɾʊʌθᵻ"
 
 # Everything a transcript may hold: what vaguye's native English emits, plus
 # the punctuation molana's transcripts keep.
-TRANSCRIPT_SYMBOLS = set("AIOWYbdfhijklmnpstuvwzæðŋɑɔəɛɜɡɪɹɾʃʊʌʒʔʤʧˈˌːθᵻ ,.!?;:")
+TRANSCRIPT_SYMBOLS = set("AIOWYbdfhijklmnpstuvwzæðŋɑɔəɛɜɡɪɹɾʃʊʌʒʔˈˌːθᵻ ,.!?;:")
 
 # Kokoro v1.0's misaki writes the American flap as T and the article "a" as ɐ.
 # vaguye writes ɾ and ə, and a transcript has to use the symbols molana will be
