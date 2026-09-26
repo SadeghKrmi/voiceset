@@ -52,11 +52,13 @@ It lists sentences that will be skipped and why, duplicates, words misaki does
 not know (Kokoro still says them, from espeak-ng's guess — listen to a few),
 the split between speakers, and how often each new symbol occurs, rarest first.
 
-Each sentence goes to **one** speaker (`assign: split`), chosen by a hash of its
-text in proportion to the speakers' `share` (Ganji 4, Parimon 1, as their Persian
-clips are 27.7k to 5.6k), as is the Kokoro voice from that speaker's list — so
-settle the speakers and shares before generating: changing either later
-reassigns sentences.
+The config uses `assign: all`: every sentence is spoken in both voices. How much
+of that English each voice then trains on is a choice for the training list —
+Parimon has 5.6k Persian clips to Ganji's 27.7k, so all of it would make her data
+mostly English. With `assign: split` each sentence goes to **one** speaker instead,
+chosen by a hash of its text in proportion to the speakers' `share` (Ganji 4,
+Parimon 1), as is the Kokoro voice from that speaker's list — so settle the
+speakers and shares before generating: changing either later reassigns sentences.
 
 ## 2. Set up the GPU box
 

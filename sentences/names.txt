@@ -5,3 +5,776 @@ Netflix and YouTube are the most popular streaming services in many countries.
 Elon Musk announced that Tesla would build a new factory in Texas.
 He prefers Microsoft Word, but his team writes everything in Google Docs.
 The Instagram account shared a video from the Apple event.
+# People.
+Albert Einstein changed the way we think about time and space.
+Isaac Newton described gravity after watching an apple fall, or so the story goes.
+Charles Darwin sailed around the world before writing his famous book.
+Marie Curie won the Nobel Prize twice.
+Thomas Edison tested thousands of materials for the light bulb.
+Galileo pointed his telescope at the moons of Jupiter.
+Stephen Hawking wrote a bestseller about black holes.
+William Shakespeare wrote more than thirty plays.
+Charles Dickens described the poor streets of London.
+Leo Tolstoy's novels are long, but worth reading.
+Ernest Hemingway wrote with very short sentences.
+George Orwell imagined a world where everyone is watched.
+Agatha Christie wrote dozens of mystery novels.
+Mark Twain worked on a riverboat before he became a writer.
+Beethoven kept composing after he lost his hearing.
+Mozart wrote his first music when he was a small child.
+Bach's music is played in churches all over the world.
+Michael Jackson was known as the king of pop.
+Adele's voice filled the whole stadium.
+The Beatles came from Liverpool.
+Lionel Messi scored a wonderful goal in the final.
+Cristiano Ronaldo trains harder than almost anyone.
+Diego Maradona scored with his hand and then with his feet.
+Michael Jordan made basketball popular around the world.
+Tom Hanks has played so many different roles.
+Leonardo DiCaprio finally won an Oscar.
+Charlie Chaplin made people laugh without saying a word.
+Napoleon was crowned emperor in Paris.
+Mahatma Gandhi led India to independence without violence.
+Nelson Mandela spent twenty-seven years in prison.
+Abraham Lincoln is remembered as a great American president.
+Winston Churchill gave famous speeches during the war.
+Cleopatra ruled Egypt more than two thousand years ago.
+Cyrus the Great founded the Persian Empire.
+Steve Jobs introduced the first iPhone on a small stage.
+Bill Gates started Microsoft with a childhood friend.
+Elon Musk wants to send people to Mars.
+Mark Zuckerberg created Facebook in his university dormitory.
+Jeff Bezos started Amazon in his garage.
+Pablo Picasso painted in many different styles.
+Vincent van Gogh sold very few paintings in his lifetime.
+Leonardo da Vinci painted the Mona Lisa.
+Michelangelo painted the ceiling of the chapel lying on his back.
+Frida Kahlo painted many portraits of herself.
+Plato was a student of Socrates.
+Aristotle taught Alexander the Great.
+Socrates asked questions instead of giving answers.
+Rumi's poems are read in many languages.
+Omar Khayyam was a poet, a mathematician and an astronomer.
+Avicenna wrote a medical book that was used for centuries.
+Alexander the Great marched all the way to India.
+Julius Caesar crossed the river with his army.
+Queen Elizabeth reigned for seventy years.
+Martin Luther King dreamed of equality for all.
+Neil Armstrong was the first person to walk on the Moon.
+Yuri Gagarin was the first human in space.
+Amelia Earhart flew alone across the Atlantic Ocean.
+Florence Nightingale cared for wounded soldiers.
+Sigmund Freud studied dreams and the unconscious mind.
+Karl Marx wrote about workers and money.
+Nikola Tesla dreamed of wireless electricity.
+Alan Turing helped break secret codes during the war.
+Ada Lovelace is often called the first programmer.
+J. K. Rowling wrote the first Harry Potter book in a cafe.
+Tolkien invented whole languages for his stories.
+Harry Potter learned magic at a school called Hogwarts.
+Sherlock Holmes lived on Baker Street.
+James Bond always orders his drink the same way.
+Mickey Mouse first appeared almost a century ago.
+Superman and Batman are the most famous heroes in comics.
+Spider-Man lives in New York.
+# Places.
+London is famous for its rain and its red buses.
+We climbed the Eiffel Tower on our first night in Paris.
+New York never sleeps, or so they say.
+Tokyo is clean, quiet and incredibly organized.
+Berlin was divided by a wall for almost thirty years.
+All roads lead to Rome.
+Istanbul sits on two continents.
+Dubai has the tallest building in the world.
+Red Square is the heart of Moscow.
+Beijing's old streets are disappearing fast.
+The opera house in Sydney looks like a group of sails.
+Toronto is the largest city in Canada.
+Vancouver is surrounded by mountains and sea.
+Los Angeles is home to Hollywood.
+San Francisco is known for its fog and its famous bridge.
+Chicago is windy, especially in winter.
+Barcelona's beaches are crowded in summer.
+Madrid has wonderful museums.
+Amsterdam has more bicycles than people.
+Vienna is the city of music and coffee houses.
+Prague's old town looks like a fairy tale.
+Athens is full of ancient ruins.
+Cairo is loud, busy and fascinating.
+Mumbai is the center of India's film industry.
+Delhi is hot and crowded in summer.
+Bangkok's night markets are full of delicious food.
+Singapore is a city, an island and a country.
+Seoul is famous for its food and its music.
+Tehran lies at the foot of the Alborz mountains.
+Isfahan has one of the largest squares in the world.
+Shiraz is the city of poets and gardens.
+The ruins of Persepolis are near Shiraz.
+The Caspian Sea is the largest lake in the world.
+Ships carry oil through the Persian Gulf.
+The Alps are covered in snow for most of the year.
+Mount Everest is the highest mountain on Earth.
+The Amazon rainforest produces much of the world's oxygen.
+The Nile flows north through Egypt.
+The Sahara is the largest hot desert in the world.
+Niagara Falls is on the border of Canada and America.
+The Grand Canyon took millions of years to form.
+Big Ben stands next to the river in London.
+The Statue of Liberty was a gift from France.
+The Colosseum in Rome once held fifty thousand people.
+The Great Wall of China is thousands of kilometers long.
+The Taj Mahal is made of white marble.
+The pyramids of Egypt were built as tombs.
+Silicon Valley is home to many technology companies.
+Wall Street is the center of American finance.
+Oxford and Cambridge are the oldest universities in England.
+She was accepted to Harvard with a full scholarship.
+He studied engineering at MIT.
+Stanford University is close to many famous tech companies.
+We spent our honeymoon in Venice.
+The canals of Venice are beautiful at sunset.
+Switzerland is famous for chocolate and watches.
+Norway is one of the best places to see the northern lights.
+Iceland has volcanoes and glaciers side by side.
+Greece has thousands of small islands.
+Japan has more than six thousand islands.
+Canada is the second largest country in the world.
+Australia is a country and a continent.
+Brazil is the largest country in South America.
+Argentina and Brazil have a fierce football rivalry.
+Mexico City was built on a lake.
+Egypt, Turkey and Iran have very old civilizations.
+Germany is famous for its cars.
+Italy is shaped like a boot.
+Spain and Portugal share a long border.
+Russia stretches across two continents.
+China has the largest population after India.
+Africa has more than fifty countries.
+Antarctica is covered almost entirely by ice.
+Europe is small, but it has dozens of languages.
+The Pacific Ocean is the largest ocean on Earth.
+The Atlantic Ocean separates Europe from America.
+The Mediterranean Sea is warm and salty.
+The Himalayas stretch across five countries.
+Hawaii is a group of volcanic islands.
+Brazil won the World Cup five times.
+The fastest sprinters in the world come from Jamaica.
+Roger Federer won Wimbledon eight times.
+The French coach led his team to the final.
+Egypt's best player scored twice against England.
+The Olympic Games return to Paris after a hundred years.
+Barack Obama was the first African American president.
+Coco Chanel changed the way women dressed.
+Walt Disney drew his first cartoons in a small garage.
+Alfred Nobel invented dynamite and then created the famous prizes.
+Christopher Columbus sailed west to find a route to India.
+Marco Polo traveled all the way to China.
+Captain Cook explored the Pacific Ocean.
+The Wright brothers flew the first airplane.
+Henry Ford made cars that ordinary families could afford.
+Albert Einstein played the violin to relax.
+Oprah Winfrey interviewed thousands of guests.
+Taylor Swift writes songs about her own life.
+The Rolling Stones have been touring for decades.
+Queen's music is still played at every stadium.
+Harry Kane is England's top scorer.
+# More places.
+We took the night train from Paris to Venice.
+Florence is full of paintings and sculptures.
+Milan is known for fashion and design.
+Naples is the home of pizza.
+The Vatican is the smallest country in the world.
+Lisbon is built on seven hills.
+Dublin has more pubs than churches.
+Edinburgh has a castle on top of an old volcano.
+Brussels is the home of the European Parliament.
+Geneva sits on the shore of a beautiful lake.
+Munich is famous for its autumn festival.
+Stockholm is spread across fourteen islands.
+Copenhagen is one of the most bicycle friendly cities in the world.
+Helsinki is very cold and dark in winter.
+Budapest is divided by the Danube river.
+Warsaw was almost completely rebuilt after the war.
+Kyiv is one of the oldest cities in Eastern Europe.
+Saint Petersburg has white nights in summer.
+Baku lies on the shore of the Caspian Sea.
+Yerevan has a clear view of Mount Ararat.
+Tbilisi is known for its warm sulfur baths.
+Doha is growing faster than almost any other city.
+Abu Dhabi and Dubai are only an hour apart by car.
+Riyadh is the capital of Saudi Arabia.
+Baghdad was once the center of the scientific world.
+Damascus is one of the oldest cities still lived in.
+Beirut was once called the Paris of the Middle East.
+Jerusalem is sacred to three religions.
+Amman is built on a series of hills.
+Kabul sits in a valley surrounded by mountains.
+Karachi is the largest city in Pakistan.
+Kathmandu is the gateway to the Himalayas.
+Hong Kong is famous for its skyline.
+Shanghai is one of the busiest ports in the world.
+Kyoto has more than a thousand temples.
+Osaka is known for its street food.
+Manila is a crowded city on a beautiful bay.
+Jakarta is sinking a few centimeters every year.
+Kuala Lumpur has two famous twin towers.
+Melbourne is known for its coffee and its trams.
+Auckland is built on dozens of old volcanoes.
+Cape Town sits beneath a flat topped mountain.
+Nairobi has a national park right next to the city.
+Lagos is the largest city in Africa.
+Casablanca is the biggest city in Morocco.
+Marrakesh is famous for its busy markets.
+Rio de Janeiro hosts a huge carnival every year.
+Buenos Aires is the home of the tango.
+Lima is famous for its seafood.
+Havana is full of colorful old cars.
+Boston is home to many famous universities.
+Washington is the capital of the United States.
+Miami is warm and sunny all year.
+Seattle is known for rain and coffee.
+Las Vegas is a city built in the middle of the desert.
+Montreal is a city where people speak French and English.
+Ottawa is colder than most people expect.
+Tabriz has one of the oldest covered bazaars in the world.
+Isfahan's bridges are beautiful at night.
+Tehran is a huge city with a very long history.
+The Zagros mountains run along the west of Iran.
+The Danube flows through ten countries.
+The Thames runs through the middle of London.
+The Seine divides Paris into two banks.
+The Mississippi is the longest river in North America.
+The Dead Sea is so salty that you float without trying.
+The Red Sea is famous for its coral reefs.
+The Black Sea is surrounded by six countries.
+Lake Baikal is the deepest lake in the world.
+Mount Fuji is a perfect cone of a volcano.
+Mount Kilimanjaro is the highest mountain in Africa.
+The Andes are the longest mountain range on land.
+The Rocky Mountains stretch from Canada to Mexico.
+Greenland is the largest island in the world.
+Madagascar has animals found nowhere else on Earth.
+The Galapagos Islands inspired Darwin's ideas.
+The Maldives are only a few meters above the sea.
+Bali is popular with surfers and tourists.
+The Swiss Alps are perfect for skiing.
+The Scottish Highlands are wild and green.
+# More people.
+Leonardo da Vinci also designed flying machines.
+Galileo was punished for saying the Earth moves around the Sun.
+Copernicus put the Sun at the center of the solar system.
+Michael Faraday discovered how to make electricity with magnets.
+James Watt improved the steam engine.
+Alexander Graham Bell made the first telephone call.
+Louis Pasteur showed that germs cause disease.
+Alexander Fleming discovered penicillin by accident.
+Rosalind Franklin photographed the structure of DNA.
+Carl Sagan made astronomy popular on television.
+Jane Goodall studied chimpanzees for decades.
+Archimedes shouted eureka in his bath, according to legend.
+Pythagoras is remembered for his theorem about triangles.
+Euclid wrote the most famous book on geometry.
+Homer's stories are nearly three thousand years old.
+Dante wrote about a journey through hell and heaven.
+Victor Hugo wrote about the poor people of Paris.
+Jane Austen wrote about love and money in England.
+Virginia Woolf wrote about the inner lives of her characters.
+Franz Kafka asked for his writing to be burned.
+Gabriel Garcia Marquez wrote about magic in everyday life.
+Paulo Coelho's novel about a shepherd was a bestseller in Iran.
+Vivaldi wrote music about the four seasons.
+Chopin was born in Poland and died in Paris.
+Elvis Presley changed popular music forever.
+Bob Marley made reggae famous around the world.
+Freddie Mercury had an incredible voice.
+Whitney Houston sang some of the most famous love songs.
+Ed Sheeran started by playing in small pubs.
+Shakira sings in Spanish and in English.
+Rembrandt painted himself many times as he grew older.
+Claude Monet painted the same garden again and again.
+Salvador Dali painted melting clocks.
+Andy Warhol painted soup cans and famous faces.
+Audrey Hepburn was an actress and a humanitarian.
+Marilyn Monroe was one of the most photographed women in the world.
+Morgan Freeman has one of the most recognizable voices in film.
+Meryl Streep has won three Oscars.
+Tom Cruise does many of his own stunts.
+Jackie Chan is famous for his action comedies.
+Bruce Lee made martial arts films popular.
+Muhammad Ali said he could float like a butterfly.
+Mike Tyson was the youngest heavyweight champion.
+Serena Williams won twenty-three major tennis titles.
+Michael Phelps won more Olympic medals than anyone else.
+Kobe Bryant spent his whole career with one team.
+David Beckham played in England, Spain, America and France.
+Wayne Rooney scored his first goal as a teenager.
+Neymar started playing football on the beaches of Brazil.
+Sherlock Holmes solved crimes with careful observation.
+Frankenstein created a monster from dead bodies.
+Robinson Crusoe was stranded on an island for years.
+Alice fell down a rabbit hole into Wonderland.
+Peter Pan never wanted to grow up.
+Winnie the Pooh loves honey more than anything.
+Pinocchio's nose grew longer every time he lied.
+Cinderella lost her glass slipper at midnight.
+Tarzan was raised by apes in the jungle.
+Dracula lived in a castle in Transylvania.
+Hercules had to complete twelve impossible tasks.
+Ulysses took ten years to sail home.
+Kepler worked out that planets move in ellipses.
+The printing press changed Europe in a single century.
+Chemists arrange the elements in the periodic table.
+Charles Dickens gave public readings of his novels.
+Mark Twain said that the reports of his death were exaggerated.
+The Spanish novel about an old knight is one of the first modern novels.
+Mozart and Haydn were friends as well as rivals.
+The Russian composer wrote the music for Swan Lake.
+The Belgian midfielder is famous for his passes.
+Edgar Allan Poe wrote dark and mysterious stories.
+# Countries and regions.
+Turkey is a bridge between Europe and Asia.
+Afghanistan and Iran share a long history and a language.
+Iraq lies between two great rivers.
+Armenia was one of the first countries to adopt Christianity.
+Georgia is famous for its mountains and its food.
+Azerbaijan is known as the land of fire.
+Oman has beautiful beaches and old forts.
+Kuwait is a small country with a lot of oil.
+Qatar hosted the football World Cup.
+Pakistan has some of the highest mountains in the world.
+India has more than twenty official languages.
+Nepal is home to eight of the ten highest peaks.
+Thailand is famous for its beaches and temples.
+Vietnam is long and narrow, with mountains and rice fields.
+Indonesia is made up of thousands of islands.
+South Korea is known for its electronics and its music.
+North Korea is one of the most closed countries in the world.
+Mongolia has more horses than people.
+Kazakhstan is the largest landlocked country on Earth.
+Uzbekistan has beautiful old cities on the Silk Road.
+Tajikistan's people speak a language close to Persian.
+Egypt's history goes back thousands of years.
+Morocco is only a short ferry ride from Spain.
+Ethiopia has its own calendar.
+Kenya is famous for its long distance runners.
+Nigeria has the largest population in Africa.
+South Africa has three capital cities.
+Chile is long and thin, stretching along the coast.
+Colombia grows some of the best coffee in the world.
+Cuba is famous for music and old cars.
+Jamaica is the birthplace of reggae music.
+Finland has more saunas than cars, people say.
+Sweden gave the world some of its most famous pop music.
+Denmark is often called the happiest country in the world.
+The Netherlands is mostly flat and partly below the sea.
+Belgium is famous for chocolate and waffles.
+Austria is full of mountains and music.
+Poland's history is full of struggle and courage.
+Hungary's language is unlike most others in Europe.
+Portugal was once a great seafaring nation.
+Ireland is so green that it's called the emerald isle.
+Scotland is known for its castles and lakes.
+Wales has its own language and a dragon on its flag.
+New Zealand has more sheep than people.
+Fiji is a group of islands in the South Pacific.
+Siberia is extremely cold in winter.
+Scandinavia has long summer days and long winter nights.
+The Middle East is where many ancient civilizations began.
+Central Asia was at the heart of the Silk Road.
+# Landmarks and famous places.
+The Louvre is the most visited museum in the world.
+The Acropolis stands on a hill above Athens.
+The Leaning Tower of Pisa has been leaning for centuries.
+Stonehenge was built thousands of years ago.
+The Sydney Harbour Bridge is nicknamed the coat hanger.
+The Golden Gate Bridge is often hidden in fog.
+The Hollywood sign was originally an advertisement.
+Times Square is bright even in the middle of the night.
+Central Park is a huge green space in the middle of Manhattan.
+Buckingham Palace is where the king lives in London.
+The Tower of London once held the crown jewels.
+Versailles was the home of French kings.
+The Kremlin is surrounded by high red walls.
+The Blue Mosque in Istanbul has six tall towers.
+Petra was carved out of pink stone.
+Angkor Wat is the largest religious building in the world.
+The Forbidden City has almost a thousand buildings.
+The Sagrada Familia has been under construction for over a century.
+The Brandenburg Gate is a symbol of Berlin.
+The Berlin Wall fell in a single night.
+The Great Barrier Reef can be seen from space.
+Victoria Falls is one of the largest waterfalls in the world.
+Yellowstone was the first national park in the world.
+The Amazon River carries more water than any other river.
+The Silk Road connected China with the Mediterranean.
+The Suez Canal links the Red Sea and the Mediterranean.
+The Panama Canal saves ships a long journey around South America.
+The Channel Tunnel connects England and France.
+# People, again.
+Saadi wrote about kindness and wisdom.
+The Persian mathematician gave us the word algorithm.
+Pope Francis was born in Argentina.
+The Dalai Lama lives in exile in India.
+Anne Frank wrote a diary while hiding from the Nazis.
+Helen Keller learned to read and write despite being deaf and blind.
+Malala Yousafzai won the Nobel Peace Prize as a teenager.
+Greta Thunberg started protesting alone outside her parliament.
+Princess Diana was loved all over the world.
+Joan of Arc led an army when she was only a teenager.
+Genghis Khan built one of the largest empires in history.
+Hannibal crossed the Alps with elephants.
+Confucius taught about family and respect.
+Buddha taught that suffering comes from desire.
+Einstein was offered the presidency of Israel.
+Newton was also very interested in alchemy.
+Edison and Tesla were fierce rivals.
+The Beatles performed on a rooftop for the last time.
+Picasso painted his most famous work about the war.
+Van Gogh cut off part of his ear.
+Mozart died when he was only thirty-five.
+Shakespeare invented many words we still use today.
+Dickens wrote many of his novels in weekly parts.
+Hemingway lived in Cuba for many years.
+Agatha Christie once disappeared for eleven days.
+Tolkien fought in the First World War.
+Harry Potter's scar is shaped like lightning.
+Sherlock Holmes had a loyal friend called Doctor Watson.
+Mickey Mouse was created by Walt Disney.
+Superman's weakness is a green rock from his home planet.
+Batman has no superpowers, only money and gadgets.
+Spider-Man got his powers from a spider bite.
+James Bond works for the British secret service.
+The tallest building in the world is in Dubai.
+Persian poetry is loved all over the world.
+The Book of Kings tells the stories of ancient heroes.
+An Iranian director won the Oscar for best foreign film.
+The first Iranian woman in space was an engineer and businesswoman.
+The ancient Inca city sits high in the mountains of Peru.
+# Travel stories with places.
+We spent a week in London and it rained every single day.
+My cousin studies medicine in Budapest.
+They flew from Tehran to Istanbul and then took a bus to Athens.
+The train from Berlin to Prague takes about four hours.
+We watched the sunrise over the desert near Yazd.
+My uncle has lived in Toronto for twenty years.
+She moved to Sydney for a job at a hospital.
+The ferry from Dover to Calais crosses the Channel in ninety minutes.
+We got lost in the old streets of Lisbon.
+He sent me a postcard from Rome.
+The conference was held in Vienna this year.
+We drove along the coast from Barcelona to Valencia.
+They spent their honeymoon in Paris, like a cliche.
+My sister lives in Hamburg with her husband and two kids.
+The flight to Tokyo took almost twelve hours.
+We visited Kyoto during the cherry blossom season.
+He ran the marathon in New York last November.
+The concert in Stockholm was sold out.
+We had the best pizza of our lives in Naples.
+She took a cooking class in Bangkok.
+They hiked in the Alps for two weeks.
+The market in Istanbul sells spices from all over the world.
+We rented a car in Dubai and drove to the mountains.
+He works for a bank in Frankfurt.
+My friend is doing a PhD in Amsterdam.
+Our cousins live in Los Angeles, near the beach.
+We took the night bus from Tehran to Shiraz.
+The Caspian coast is green and rainy.
+Isfahan is half the world, according to an old saying.
+The flight from London to Tehran takes about six hours.
+The ancient city is a short drive from Shiraz.
+They met while studying in Manchester.
+The train through Switzerland passes lakes and mountains.
+We saw the northern lights in Norway.
+My father visited Moscow in the eighties.
+She teaches English in a small town near Madrid.
+We spent New Year's Eve in Edinburgh.
+The Christmas markets in Vienna are beautiful.
+He took a photo of every bridge in Venice.
+The museum in Florence was full of tourists.
+# Nationalities and languages.
+She speaks Persian, English and a little French.
+He's Italian, but he grew up in Canada.
+Our neighbors are from Turkey.
+The Japanese are famous for being polite.
+Arabic is written from right to left, like Persian.
+German has very long words.
+Spanish is spoken in more than twenty countries.
+Mandarin Chinese is the most spoken language in the world.
+The French love their bread and cheese.
+Many Indians speak three or four languages.
+Russian uses a different alphabet from English.
+Korean pop music is popular all over the world.
+The Greek alphabet gave us many scientific symbols.
+English has borrowed words from dozens of languages.
+Persian has been spoken for thousands of years.
+The Dutch are famous for being tall.
+Portuguese is the language of Brazil.
+The Swiss speak four different languages.
+Kurdish is spoken in several countries.
+Hindi and Urdu sound very similar.
+# History.
+The Roman Empire lasted for centuries.
+The Persian Empire stretched from Egypt to India.
+The ancient Egyptians built pyramids as tombs for their kings.
+The Greeks held the first Olympic Games.
+The Mongols conquered most of Asia.
+The Ottoman Empire ruled for more than six hundred years.
+The Renaissance began in Italy.
+The printing press spread new ideas across Europe.
+The Industrial Revolution started in England.
+The First World War began in the summer.
+The Second World War changed the map of the world.
+The Cold War lasted for more than forty years.
+The Berlin Wall came down in November.
+The first humans walked on the Moon in the summer.
+The Silk Road carried silk, spices and ideas.
+The Vikings sailed as far as North America.
+The Aztecs built a great city on a lake.
+The Incas built roads through the mountains.
+The Great Fire of London destroyed most of the city.
+The French Revolution changed Europe forever.
+# Cities in everyday sentences.
+My brother works in Dubai and comes home twice a year.
+We're flying to Istanbul for a long weekend.
+She was born in Tehran but grew up in London.
+The Paris metro is old but very efficient.
+The weather in London changes every hour.
+New York is expensive, but it's full of energy.
+We changed planes in Frankfurt on the way to Toronto.
+The train from Rome to Florence is fast and comfortable.
+Tokyo's subway system is incredibly punctual.
+Berlin has a lot of parks and lakes.
+My friend opened a Persian restaurant in Vienna.
+The streets of Istanbul are full of cats.
+Amsterdam is best explored by bicycle.
+The summers in Madrid are very hot and dry.
+Moscow has one of the most beautiful metro systems in the world.
+We visited the markets of Marrakesh on our honeymoon.
+The beaches near Sydney are world famous.
+Hong Kong is one of the most crowded places on Earth.
+Seoul has amazing street food.
+Singapore is clean, green and very hot.
+# People in everyday sentences.
+My son wants to play football like Messi.
+She has read every book by Agatha Christie.
+We listened to Beethoven while we cooked.
+He looks a bit like Albert Einstein with that hair.
+Our teacher told us about Marie Curie's discoveries.
+She knows every song by the Beatles.
+My grandfather met Muhammad Ali once at an airport.
+He's reading a biography of Steve Jobs.
+The museum has a painting by Van Gogh.
+We watched a documentary about Nelson Mandela.
+My daughter loves the Harry Potter books.
+The play was written by Shakespeare four hundred years ago.
+My brother dresses like Sherlock Holmes for every party.
+She wants to be an astronaut like Neil Armstrong.
+We saw a statue of Winston Churchill in London.
+The concert was a tribute to Michael Jackson.
+My friend is named after Leonardo da Vinci.
+He quotes Mark Twain in every speech he gives.
+The film tells the story of Charles Darwin's voyage.
+She reads Rumi's poems in English and in Persian.
+# Places in everyday sentences.
+I've always wanted to see the pyramids in Egypt.
+We took the kids to the beach in Turkey.
+She's studying at a university in Germany.
+The cheapest flights to Europe go through Istanbul.
+He dreams of driving across America.
+We're thinking of moving to Canada.
+My aunt lives in a small town in Italy.
+The best tea in the world comes from India, some say.
+We spent Christmas in a cabin in Sweden.
+The carpet came all the way from Kashan.
+She sends me chocolate from Switzerland every year.
+The cheese we bought in France was amazing.
+They went skiing in Austria.
+We visited the temples in Japan.
+The coffee in Colombia is incredible.
+He brought me a small elephant from Thailand.
+The beaches in Greece are clean and quiet.
+We watched the sunset over the sea in Spain.
+Our neighbors just came back from Australia.
+My uncle fought in the war in the south.
+# Famous works and characters.
+Romeo and Juliet is a story of young love.
+Hamlet asked whether to be or not to be.
+The Lord of the Rings was turned into three films.
+The Little Prince is loved by children and adults.
+Alice in Wonderland is full of strange characters.
+The Wizard of Oz follows a girl called Dorothy.
+Robin Hood took from the rich and gave to the poor.
+Aladdin found a magic lamp.
+The Thousand and One Nights has stories within stories.
+Sinbad the sailor had seven great adventures.
+Snow White lived with seven dwarfs.
+Beauty and the Beast is a tale about looking beyond appearances.
+The Mona Lisa hangs in the Louvre.
+The Last Supper was painted on a wall in Milan.
+The Starry Night was painted from memory.
+Swan Lake is one of the most famous ballets.
+The Titanic sank on its very first voyage.
+Moby Dick is a novel about a giant white whale.
+The Odyssey tells the story of a long journey home.
+Frankenstein was written by a young woman.
+Dracula is set partly in England and partly in Transylvania.
+Treasure Island is full of pirates and gold.
+Oliver Twist asked for more food.
+The Jungle Book is set in the forests of India.
+Gulliver found himself in a land of tiny people.
+# Sports stars and teams.
+Real Madrid and Barcelona are the biggest rivals in Spain.
+Manchester United has fans all over the world.
+Liverpool won the league after thirty years of waiting.
+Bayern Munich dominates German football.
+Juventus is one of the most successful clubs in Italy.
+Paris Saint Germain signed some of the most expensive players ever.
+Chelsea play their home games in west London.
+Arsenal's stadium is in north London.
+The Brazilian national team wears yellow shirts.
+Argentina won the World Cup in a dramatic final.
+Germany's national team is known for its discipline.
+Iran's national team has played in several World Cups.
+Tiger Woods is one of the greatest golfers of all time.
+Lewis Hamilton has won many Formula One championships.
+LeBron James played in the NBA for more than twenty years.
+Stephen Curry changed the way basketball is played.
+Wayne Gretzky is the greatest ice hockey player ever.
+# Scientists and inventors, more.
+Archimedes discovered why things float.
+Leonardo da Vinci drew plans for a helicopter.
+Galileo improved the telescope and looked at the Moon.
+Benjamin Franklin flew a kite in a thunderstorm.
+Marie Curie studied radioactivity.
+Albert Einstein explained why the sky looks the way it does.
+Rosalind Franklin's photos helped reveal the shape of DNA.
+Tim Berners Lee invented the World Wide Web.
+Grace Hopper helped create one of the first programming languages.
+Katherine Johnson calculated the paths of early space flights.
+Edwin Hubble showed that the universe is expanding.
+Gregor Mendel studied peas to understand inheritance.
+Jonas Salk developed a vaccine against polio.
+The Curies shared the Nobel Prize in physics.
+Hawking kept working despite a terrible illness.
+# Everyday mentions of places.
+The plane from Paris was delayed by fog.
+She sent me a postcard from the coast of Italy.
+My cousin just got back from a trip to China.
+The coffee beans come from Brazil and Ethiopia.
+He's been working in Qatar for three years.
+We met a couple from Scotland on the train.
+The carpet was woven in a village near Tabriz.
+The oranges come from the north of Iran.
+The tea is grown on the hills near the Caspian Sea.
+Our teacher studied in France for two years.
+The new students come from all over the world.
+My brother lives in a small flat in central London.
+The best dates in the world come from the south.
+She's going to Japan for a conference in the spring.
+He brought back a bag of spices from India.
+The fastest marathon runners in the world often come from Kenya.
+A Serbian tennis player has won more major titles than almost anyone.
+The American gymnast won gold on the balance beam.
+Oxford is famous for its old university and its bicycles.
+Cambridge is quiet, green and full of students.
+Harvard is the oldest university in the United States.
+The Sorbonne is one of the oldest universities in Europe.
+The Nobel Prizes are awarded in Stockholm and Oslo.
+The Oscars are held in Los Angeles every year.
+The Olympic flag has five rings of different colors.
+Wimbledon is played on grass.
+The Tour de France lasts three weeks.
+The Champions League final is watched by millions.
+The World Cup is held every four years.
+The Olympic Games bring together athletes from every country.
+# Iranian places in English sentences.
+Tehran is surrounded by mountains on the north.
+The Alborz mountains separate Tehran from the Caspian Sea.
+Isfahan is famous for its bridges, mosques and handicrafts.
+Shiraz is known for its gardens, poets and oranges.
+Tabriz is one of the oldest cities in Iran.
+The Persian Gulf has many small islands.
+The Caspian Sea is the largest lake on Earth.
+The ruins of Persepolis are more than two thousand years old.
+Yazd is a desert city with wind towers.
+The deserts of central Iran are among the hottest places on Earth.
+The north of Iran is green, wet and full of rice fields.
+Kashan is famous for its rose water and old houses.
+The Zagros mountains are home to many nomadic tribes.
+The bazaar in Tehran is a city within a city.
+The island in the Persian Gulf is popular with tourists in winter.
+# Short sentences with places and people.
+We're flying to London tomorrow.
+She grew up in Paris.
+He works in Berlin now.
+The pyramids are in Egypt.
+Tokyo is very expensive.
+Einstein loved sailing.
+Mozart wrote hundreds of pieces.
+The Nile is very long.
+Rome is full of history.
+Shakespeare was born in April.
+Canada is very cold in winter.
+Istanbul is a beautiful city.
+Newton never married.
+Darwin loved beetles.
+Picasso lived to ninety-one.
+Tehran has a huge bazaar.
+Venice is sinking slowly.
+Beethoven lived in Vienna.
+The Alps are covered in snow.
+Brazil loves football.
+# Continents, oceans and big places.
+Asia is the largest continent on Earth.
+Africa is home to the longest river in the world.
+South America has the largest rainforest.
+Europe has dozens of countries packed into a small space.
+North America stretches from the Arctic to the tropics.
+Australia is surrounded by ocean on every side.
+The Indian Ocean touches Africa, Asia and Australia.
+The Arctic Ocean is mostly covered by ice.
+The Southern Ocean surrounds Antarctica.
+The Mediterranean connects Europe, Asia and Africa.
+The Sahara is almost as big as the United States.
+The Gobi desert stretches across China and Mongolia.
+The Amazon rainforest covers parts of nine countries.
+The Himalayas are still growing taller every year.
+The Nile and the Amazon compete for the title of the longest river.
+# People in history, short.
+The Cyrus Cylinder is sometimes called the first charter of human rights.
+Alexander conquered Persia at a very young age.
+Julius Caesar was murdered in Rome.
+Cleopatra spoke several languages.
+Napoleon lost his final battle at Waterloo.
+Queen Victoria ruled for more than sixty years.
+Gandhi walked hundreds of kilometers to protest a tax on salt.
+Lincoln led America through its civil war.
+Mandela became president after years in prison.
+Churchill won the Nobel Prize for literature.
+# Famous buildings and bridges.
+The Eiffel Tower was built for a world fair.
+The Tower Bridge opens to let tall ships pass.
+The Golden Gate Bridge is painted a special orange.
+The Brooklyn Bridge connects two parts of New York.
+The Taj Mahal was built by an emperor for his wife.
+The Sydney Opera House took fourteen years to build.
+The Colosseum was used for games and shows.
+The Parthenon sits on top of the Acropolis.
+The Alhambra is a palace in the south of Spain.
+The Kremlin has been the center of Russian power for centuries.
+The Leaning Tower of Pisa started leaning during construction.
+The Empire State Building was once the tallest in the world.
+A famous hotel in Dubai looks like a giant sail.
+The Great Pyramid was the tallest building for thousands of years.
+One of the old bridges in Isfahan is also a dam.
+# Last names and places.
+We watched a play by Shakespeare in the park.
+My son wants to be a scientist like Marie Curie.
+The novel by Tolstoy is more than a thousand pages long.
+Mozart's music is played at many weddings.
+We walked past the house where Van Gogh lived in Paris.
+The statue of Cyrus stands in a park in Sydney.
+The museum has letters written by Einstein.
+Darwin's house is now a museum outside London.
+The Louvre was once a royal palace.
+The Nile valley has been farmed for thousands of years.

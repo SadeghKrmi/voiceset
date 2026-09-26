@@ -7,7 +7,7 @@ sentences: sentences    # *.txt, one sentence per line; the file name is the cat
 # split: each sentence goes to one speaker (more text variety for the same hours),
 #        in proportion to the speakers' `share`
 # all:   every sentence to every speaker
-assign: split
+assign: all             # every sentence in both voices; `share` only matters for split
 
 kokoro:
   repo_id: hexgrad/Kokoro-82M

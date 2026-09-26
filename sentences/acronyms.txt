@@ -1,0 +1,351 @@
+# Abbreviations and acronyms Persian text writes in Latin letters, in sentences.
+# One sentence per line; the file name is the category. No digits or symbols.
+Please save the contract as a PDF before you send it.
+The USB cable is too short to reach the computer.
+The CEO announced the news in a short video.
+Turn on GPS so the app can find your location.
+The AI wrote a summary of the meeting.
+Our API returns the data in a simple format.
+She learned HTML and CSS in a single summer.
+The CPU gets very hot during video editing.
+This laptop has sixteen gigabytes of RAM.
+An SSD makes an old computer feel new again.
+The DNA test showed that they were cousins.
+The doctor ordered an MRI of his knee.
+He spent two nights in the ICU after the operation.
+FIFA announced where the next World Cup will be held.
+The NBA season starts in October.
+The UN held an emergency meeting last night.
+UNESCO added the old city to its list of world heritage sites.
+The WHO published new advice about vaccines.
+NATO leaders met in Brussels.
+The EU and the UK finally reached an agreement.
+She works as a journalist for the BBC.
+CNN showed the storm live from the coast.
+Our IT department blocks most websites.
+The HR manager interviewed three candidates today.
+The VIP guests arrived in black cars.
+He loves DIY projects and fixes everything himself.
+Read the FAQ before you contact support.
+Enter your PIN and press the green button.
+I need a new SIM card for my trip.
+The bank sends an SMS for every payment.
+Scan the QR code on the table to see the menu.
+The LED lights use much less electricity.
+Our old TV still works perfectly.
+He kept all his DVDs, even though he has no player.
+The VPN makes the connection slower.
+What's the IP address of the printer?
+Copy the URL and paste it into the message.
+The website finally switched to HTTPS.
+She writes SQL queries all day at the bank.
+Our old website was written in PHP.
+She needs a high IELTS score to study in Australia.
+He took the TOEFL exam twice.
+The GRE is required for many graduate programs in America.
+She's doing an MBA in the evenings.
+He finished his PhD in chemistry last year.
+Your GPA matters less than your experience.
+The IQ test only measures a small part of intelligence.
+Bring your ID card to the exam.
+The ATM swallowed my card.
+What's the ETA for the delivery?
+Please reply ASAP, the deadline is tomorrow.
+FYI, the meeting has moved to the second floor.
+The OK button is greyed out.
+The GIF of the dancing cat made everyone laugh.
+Save the photos as JPEG files to make them smaller.
+The logo looks sharper as a PNG.
+Compress the folder into a ZIP file.
+Which OS does your phone run?
+The iOS update changed the lock screen.
+The UI is pretty, but the UX is confusing.
+She works in SEO for an online shop.
+The IoT sensors report the temperature every minute.
+My phone supports NFC payments.
+The GDP of the country grew slowly last year.
+The IMF lent money to several countries during the crisis.
+OPEC decided to cut oil production.
+The FBI opened an investigation.
+The CIA was mentioned in almost every spy film we watched.
+The NGO builds schools in poor villages.
+He swears he saw a UFO above the desert.
+The DJ played music until two in the morning.
+The VR headset made me feel like I was flying.
+AR filters put funny hats on everyone in the video.
+The EV charges faster at a public station.
+They bought a big SUV for their family trips.
+The car's ABS stopped us from sliding on the ice.
+The NASA mission landed a robot on Mars.
+The PS at the end of the letter was the most important part.
+The GPU trains the model much faster than the CPU.
+I paid for the tickets online and received a PDF.
+My USB drive is full of old school projects.
+The CEO and the CFO disagreed about the budget.
+Our CTO wants to move everything to the cloud.
+The CV should fit on a single page.
+He attached his CV to the email.
+The HIV test came back negative.
+The ER was full on New Year's Eve.
+The CT scan showed a small fracture.
+The PR team wrote a careful statement.
+The QA team found three bugs before the release.
+The HDMI cable connects the laptop to the television.
+The LCD screen cracked in the cold.
+The OLED screen shows perfect black.
+The BIOS menu appears when you press the right key.
+Our SaaS product has customers in twenty countries.
+The ISP promised faster speeds next month.
+The DNS settings were wrong, so the website didn't load.
+The PDF was too large to send by email.
+The AI assistant booked a table for four.
+USB drives are getting smaller every year.
+She passed her IELTS exam on the first try.
+He's the CEO of a small startup in Tehran.
+The UN Secretary General gave a speech.
+The UEFA Champions League final was held in Istanbul.
+UNICEF sends vaccines to children around the world.
+The BBC Persian service reports news in our language.
+The ATM near my house is always out of money.
+He works in IT support at a hospital.
+The HR department is organizing a party.
+She prefers DIY furniture to expensive stores.
+Please send me the files as a ZIP.
+The NASA astronauts returned safely to Earth.
+The API documentation is clear and simple.
+My GPS lost the signal in the tunnel.
+The DNA sample was sent to a laboratory in Germany.
+They met at an MBA class in Dubai.
+The OK sign means different things in different countries.
+He answered FAQ questions for the online shop.
+The TV remote is always lost between the sofa cushions.
+The SMS code expired before I could type it.
+The QR code on the poster links to the concert tickets.
+# More acronyms.
+The NBA finals were watched all over the world.
+The USB stick had a virus on it.
+She printed the PDF and signed every page.
+The CEO resigned after the scandal.
+My GPS says we're in the middle of a lake.
+The AI model was trained on millions of pictures.
+Our IT team replaced every computer in the building.
+The HR department sends a newsletter every month.
+He works for the UN in Geneva.
+The WHO declared the outbreak over.
+The BBC reported the story first.
+The CIA and the FBI are both American agencies.
+NASA and the European space agency worked on the telescope together.
+UNICEF helps children in more than a hundred countries.
+The EU passed a new law about online privacy.
+The UK left the EU after a long debate.
+The USA is made up of fifty states.
+The UAE is a small country with huge buildings.
+The PhD took him six long years.
+My GPA dropped in my second year.
+The MBA program costs a fortune.
+She took the IELTS exam in Tehran.
+The TOEFL exam lasts about three hours.
+He needed a better GRE score for the program.
+The DNA evidence proved his innocence.
+The MRI machine is very loud.
+The ICU nurses worked through the night.
+The ER doctor stitched the cut on his hand.
+The HIV clinic offers free tests.
+The ATM gave me old banknotes.
+Enter your PIN carefully, you only have three tries.
+The SIM card doesn't fit in my new phone.
+The SMS arrived an hour late.
+The QR code took us straight to the website.
+The LED screen in the square shows advertisements all night.
+The TV channel showed the match live.
+The DVD player is gathering dust under the television.
+The VPN connection keeps dropping.
+Type the URL exactly as it's written.
+Our website now uses HTTPS for every page.
+The API limit was reached before lunch.
+The CPU and the GPU both work hard during games.
+He added more RAM to his old laptop.
+The SSD is faster, but the hard drive is bigger.
+The FAQ page answered all my questions.
+The VIP lounge had free food and quiet chairs.
+The DIY shelf fell down after a week.
+The CV template made my experience look better.
+The FIFA rules changed after the tournament.
+The UEFA committee made a surprising decision.
+The GDP grew faster than economists predicted.
+The IMF report was full of warnings.
+OPEC countries produce a large part of the world's oil.
+The NGO distributes food in poor neighborhoods.
+The UFO turned out to be a weather balloon.
+The DJ played Persian pop at the wedding.
+The VR game made my brother fall over.
+The AR app shows how furniture looks in your room.
+The EV market is growing quickly.
+The SUV was too big for the narrow streets.
+The HDMI port on the laptop is broken.
+The OLED television has amazing colors.
+The iOS and Android versions look slightly different.
+The UX designer interviewed twenty users.
+The UI has too many buttons.
+The SEO expert said our website was too slow.
+The SaaS company charges a monthly fee.
+The IoT devices in the factory report every hour.
+The NFC tag opens the door when you tap it.
+The CT scan was quick and painless.
+The QA engineer found a serious bug.
+The PR campaign was a huge success.
+The IQ test had a lot of puzzles.
+The ID card is required for the exam.
+The ETA on the app keeps changing.
+Please answer ASAP, it's urgent.
+FYI, I'll be out of the office tomorrow.
+The GIF made the whole team laugh.
+The JPEG files are smaller than the PNG files.
+Unzip the ZIP file before you open the documents.
+# Acronyms, more.
+The AI can write, draw and even compose music.
+The PDF version of the book is free to download.
+The USB port is on the left side of the laptop.
+The CEO thanked the employees in an email.
+The HR team is looking for a new designer.
+The IT department fixed my computer remotely.
+The GPS on my watch tracks every run.
+The NASA telescope took a picture of a distant galaxy.
+The WHO warned about a new strain of flu.
+The UN called for an immediate ceasefire.
+The EU banned single use plastic.
+The BBC documentary was narrated by a famous voice.
+The CNN reporter was standing in the rain.
+The NBA player signed a huge contract.
+FIFA fined the club for the fans' behavior.
+UNESCO protects old cities and natural wonders.
+The DNA test showed his family came from the north.
+The MRI scan took forty minutes.
+The ICU has twenty beds.
+The ATM is inside the supermarket.
+The PIN code is four numbers long.
+The SIM card is tiny, so be careful not to lose it.
+The QR code is printed on every receipt.
+The LED bulbs last for many years.
+The TV was on, but nobody was watching.
+The DVD collection takes up a whole shelf.
+The VPN app slows down my internet.
+The URL is too long to remember.
+The API key must be kept secret.
+The CPU temperature is too high.
+The RAM is full, so everything is slow.
+The SSD made my laptop start in seconds.
+The IELTS exam has four parts.
+The PhD student presented her research.
+The MBA graduates found jobs quickly.
+The GPA requirement is quite high.
+The ID card has a chip inside.
+The CV had a spelling mistake in the first line.
+The VIP section was empty.
+The DIY video made it look easy.
+# Short sentences with acronyms.
+Send me the PDF.
+Where's the USB cable?
+Turn on the GPS.
+The CEO is here.
+Ask the IT team.
+Check the FAQ.
+Scan the QR code.
+Enter your PIN.
+Is the ATM working?
+The DNA matched.
+Call the ER.
+Watch the BBC news.
+Reply ASAP, please.
+The VPN is slow.
+The TV is broken.
+Bring your ID card.
+The UN is meeting today.
+He works for NASA.
+The GPU is too hot.
+The AI answered instantly.
+# Acronyms in longer sentences.
+The CEO of the company announced a new strategy at the annual meeting.
+You can download the PDF version of the report from our website.
+The IT team will replace all the old computers next month.
+Our HR manager is organizing a training day for new employees.
+The GPS in the car stopped working in the middle of the desert.
+The new AI model can understand both speech and pictures.
+The USB cable that came with the phone is far too short.
+NASA plans to send astronauts back to the Moon.
+The WHO says that regular exercise is essential for health.
+The UN was founded after the Second World War.
+The BBC has a Persian service with news and programs.
+The IELTS exam tests reading, writing, listening and speaking.
+She finished her PhD and got a job at a research institute.
+The ATM outside the bank has been broken for a week.
+The QR code on the ticket is scanned at the entrance.
+The DNA test showed that the two men were brothers.
+The VPN makes it look like you are in another country.
+The SMS from the bank had a code I needed to enter.
+The SIM card for tourists includes free data.
+The TV in the hotel room had only three channels.
+The LED lights on the Christmas tree changed color.
+The MRI scan showed a small tear in the muscle.
+The ICU staff worked tirelessly during the crisis.
+The HR department approved my holiday request.
+The API change broke the mobile app for a day.
+# Acronyms, once more.
+The DNA sample was taken from a single hair.
+The UN report warned about food shortages.
+The EU has twenty-seven member countries.
+The NBA game went into overtime.
+The FIFA ranking of our team improved this year.
+The BBC weather forecast predicted rain.
+The PDF form can be filled in on the computer.
+The USB drive was lost somewhere in the office.
+The CEO flew in from New York for the meeting.
+The AI model made a funny mistake.
+The IT support ticket was closed without an answer.
+The GPS signal is weak between the tall buildings.
+The HR policy was updated last month.
+The PhD thesis is almost three hundred pages long.
+The IELTS score is valid for two years.
+The ATM charges a fee for foreign cards.
+The QR code didn't scan in the dark.
+The SMS reminder came an hour before the appointment.
+The LED screen in the stadium showed the replay.
+The VPN connection was blocked by the hotel.
+# Acronyms in questions.
+Do you have a USB cable?
+Can you send it as a PDF?
+Is the GPS working?
+Who's the CEO of the company?
+Did you call IT support?
+Is there an ATM nearby?
+What's your IELTS score?
+Did you finish your PhD?
+Is the VPN on?
+Can you scan the QR code?
+Where's the nearest ER?
+Have you checked the FAQ?
+What's the ETA of the delivery?
+Is this a DIY project?
+Did you get the SMS?
+# Acronyms: comparisons.
+An SSD is faster than an old hard drive.
+A PDF looks the same on every computer.
+The GPU is better at graphics than the CPU.
+USB cables come in several shapes.
+The NBA season is longer than the football season.
+The UN has more members than the EU.
+An MRI shows soft tissue better than an X-ray.
+The IELTS and the TOEFL test the same skills.
+A VPN hides where you are, but it's not magic.
+An LED screen uses less energy than an old television.
+# Acronyms: last batch.
+The AI tool helped me plan my trip.
+The GPS took us down a road that didn't exist.
+The USB port on the television plays videos.
+The PDF has forty pages of instructions.
+The IT manager changed all the passwords.
+The ATM gave me the wrong amount of money.
+The WHO praised the country's vaccination program.
+The UN announced a new climate agreement.
+The CEO answered questions from the employees.
+The HR office is closed on Fridays.

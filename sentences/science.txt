@@ -5,3 +5,960 @@ The vaccine trains the immune system to recognize the virus.
 Black holes bend light so strongly that nothing can escape them.
 The researchers used machine learning to predict the weather more accurately.
 DNA carries the genetic instructions for every living thing.
+# Physics and chemistry.
+Everything around us is made of atoms.
+An atom has a nucleus with electrons moving around it.
+Water is made of hydrogen and oxygen.
+Light travels faster than anything else in the universe.
+Sound cannot travel through empty space.
+The magnet pulled the nails across the table.
+Heat always flows from hot things to cold things.
+Ice floats because it is lighter than liquid water.
+Gravity keeps the Moon in orbit around the Earth.
+The experiment proved that the theory was wrong.
+A molecule of salt contains sodium and chlorine.
+Carbon is found in every living thing.
+Energy can change its form, but it can never be destroyed.
+The laser beam cut through the metal like butter.
+Electricity flows through copper wires easily.
+The battery stores chemical energy.
+Radiation from the Sun can burn your skin.
+Nuclear power plants produce a lot of electricity.
+The chemist mixed two clear liquids, and they turned blue.
+Pressure increases as you dive deeper into the ocean.
+Metals expand when they get hot.
+Quantum physics describes the world of very small particles.
+The speed of sound depends on the temperature of the air.
+Air is mostly nitrogen, with some oxygen.
+The thermometer showed that the water was boiling.
+Friction slows down a ball rolling across the grass.
+The pendulum swings back and forth at a steady rhythm.
+A prism splits white light into all the colors of the rainbow.
+The circuit won't work if one wire is loose.
+Acids and bases cancel each other out.
+Gold doesn't rust, which is why it lasts forever.
+The reaction released a lot of heat and a little smoke.
+Waves carry energy across the ocean.
+Our voices are vibrations in the air.
+Every action has an equal and opposite reaction.
+# Biology and medicine.
+The cell is the basic unit of life.
+Plants turn sunlight into food through photosynthesis.
+Genes carry information from parents to their children.
+Bacteria can be helpful as well as harmful.
+A virus can only multiply inside living cells.
+The vaccine teaches the immune system to recognize the disease.
+Antibiotics don't work against viruses.
+The human heart beats about a hundred thousand times a day.
+The brain uses a surprising amount of energy.
+Our lungs take in oxygen and release carbon dioxide.
+Blood carries oxygen to every part of the body.
+The liver cleans poisons from the blood.
+Bones are stronger than they look.
+The skin is the largest organ of the body.
+Insulin controls the amount of sugar in the blood.
+Diabetes is becoming more common all over the world.
+The surgeon operated for six hours without a break.
+Sleep helps the brain store memories.
+Muscles grow stronger when we use them.
+Evolution explains how species change over time.
+Dinosaurs lived on Earth for millions of years.
+Whales are mammals, not fish.
+Bees help plants by carrying pollen from flower to flower.
+Some trees live for thousands of years.
+The rainforest is home to countless species of insects.
+Every species plays a part in its ecosystem.
+Our eyes see only a small part of the light around us.
+The nurse measured his blood pressure.
+The patient recovered quickly after the surgery.
+Smoking damages the lungs and the heart.
+Regular exercise lowers the risk of heart disease.
+The doctor listened to her breathing through a stethoscope.
+Scientists are still learning how the brain works.
+A healthy diet includes fruit, vegetables and whole grains.
+Stress can make you ill if it lasts too long.
+The researchers studied mice for three years.
+Red blood cells live for about four months.
+Hormones send messages around the body.
+The immune system fights infections every day.
+# Space.
+The Sun is a star, just like the ones we see at night.
+The Earth goes around the Sun once a year.
+Mars is called the red planet.
+Jupiter is the largest planet in our solar system.
+Saturn's rings are made of ice and rock.
+Venus is the hottest planet, even hotter than Mercury.
+Neptune is so far away that it takes decades to orbit the Sun.
+Pluto is no longer called a planet.
+Our galaxy is called the Milky Way.
+A black hole pulls in everything, even light.
+The astronauts lived on the space station for six months.
+The rocket launched just before sunrise.
+The satellite takes pictures of the weather from space.
+A comet has a long tail that points away from the Sun.
+The asteroid passed safely between the Earth and the Moon.
+We watched a meteor shower from the roof.
+The telescope photographed galaxies billions of light years away.
+The Moon has no air and no weather.
+A solar eclipse happens when the Moon blocks the Sun.
+The universe is almost fourteen billion years old.
+Astronomers have found thousands of planets around other stars.
+The first photo of a black hole looked like a glowing ring.
+Stars are born in huge clouds of gas and dust.
+The rover drove slowly across the surface of Mars.
+Earth is the only planet we know that has life.
+# Earth and climate.
+Earthquakes happen when giant plates of rock move.
+The volcano erupted after sleeping for two centuries.
+The tsunami reached the coast within an hour.
+Glaciers are melting faster than ever before.
+Climate change is making summers hotter.
+Greenhouse gases trap heat in the atmosphere.
+The ozone layer protects us from harmful sunlight.
+Deserts can be freezing at night.
+Rivers carry sand and mud to the sea.
+The rain forest is being cut down at an alarming rate.
+Solar and wind power are getting cheaper every year.
+Recycling saves energy and raw materials.
+Plastic in the ocean harms fish and birds.
+The drought lasted for five long years.
+The storm uprooted trees all along the road.
+Iran has a dry climate and very little rain.
+The water table under the city is dropping.
+Air pollution in big cities is dangerous for children.
+The forest fire burned for three weeks.
+Scientists measure the temperature of the oceans every day.
+# Mathematics.
+A triangle has three sides and three angles.
+The radius is half the diameter of a circle.
+She solved the equation in her head.
+Algebra uses letters to stand for numbers.
+Geometry is the study of shapes and space.
+Calculus helps engineers design bridges.
+Statistics can be used to tell the truth or to hide it.
+The probability of rain tomorrow is quite high.
+Every even number can be divided by two.
+Zero was one of the most important ideas in history.
+The theorem was finally proved after three hundred years.
+Prime numbers can only be divided by one and by themselves.
+She enjoys solving puzzles more than doing homework.
+The graph shows how prices changed over the year.
+Pi is a number that never ends.
+# More physics, chemistry and engineering.
+The bridge was designed to bend slightly in strong winds.
+Engineers tested the engine in extreme cold.
+A lever lets you lift heavy things with little effort.
+The ball rolled down the slope faster and faster.
+Electric motors turn electricity into movement.
+The generator produces power when the wind blows.
+Steel is made mostly of iron and a little carbon.
+The chemical reaction turned the liquid bright green.
+Mercury is a metal that is liquid at room temperature.
+Diamonds and graphite are both made of carbon.
+Salt water conducts electricity better than pure water.
+The spark ignited the gas and caused an explosion.
+The scientist wore goggles to protect her eyes.
+Sound travels faster in water than in air.
+The echo came back from the wall of the canyon.
+A rainbow forms when sunlight passes through raindrops.
+Hot air rises, which is why balloons can fly.
+The engine converts fuel into motion and heat.
+The satellite dish collects signals from space.
+Solar panels turn sunlight directly into electricity.
+Wind turbines are taller than most buildings.
+The battery in an electric car is very heavy.
+The robot was programmed to sort packages.
+Plastic takes hundreds of years to break down.
+Glass is made by melting sand at very high temperatures.
+The scientists measured the speed of the particles.
+Magnets have a north pole and a south pole.
+The compass needle always points north.
+Clouds are made of tiny drops of water.
+Nothing can escape from the center of a black hole.
+Aluminum is light, strong and easy to recycle.
+The microscope showed tiny creatures in a drop of pond water.
+The engineer checked every bolt on the bridge.
+Concrete gets stronger for years after it's poured.
+The tunnel was dug through solid rock.
+A vacuum is a space with no air at all.
+The atoms in a solid vibrate, but they don't move around.
+Boiling water turns into steam.
+Salt lowers the freezing point of water.
+The chemist weighed the powder very carefully.
+# Biology, animals and plants.
+Elephants can recognize themselves in a mirror.
+Dolphins communicate with clicks and whistles.
+Octopuses have three hearts and blue blood.
+Some birds fly thousands of kilometers every year.
+Ants can carry many times their own weight.
+The cheetah is the fastest animal on land.
+Camels can go for days without drinking water.
+Snakes smell with their tongues.
+Frogs breathe partly through their skin.
+Butterflies taste with their feet.
+The Persian leopard lives in the mountains of Iran.
+Wolves live and hunt in packs.
+Sharks have been around longer than trees.
+The tallest trees in the world grow in California.
+Cactus plants store water in their thick stems.
+Roots take water and minerals from the soil.
+Leaves change color in autumn when the days get shorter.
+Seeds can wait for years before they grow.
+Mushrooms are closer to animals than to plants.
+The spider spun its web between two branches.
+Honey never goes bad if it's kept sealed.
+Crows are clever enough to use simple tools.
+The koala sleeps for most of the day.
+Penguins can't fly, but they swim very well.
+The blue whale is the largest animal that has ever lived.
+Many animals sleep through the winter.
+Coral reefs are home to thousands of species.
+Some fish live in total darkness at the bottom of the sea.
+Parrots can learn to repeat human words.
+The tortoise lived for more than a hundred years.
+# Medicine and the human body.
+The heart has four chambers.
+Your body has more than two hundred bones.
+Vitamin C helps the body heal wounds.
+Calcium makes bones and teeth strong.
+The flu spreads quickly in crowded places.
+The doctor recommended a blood test.
+The X-ray showed that the bone was broken.
+Allergies are becoming more common in cities.
+The new treatment helped thousands of patients.
+The medicine should be taken with a full glass of water.
+Children need more sleep than adults.
+The brain keeps working while we sleep.
+A fever is the body's way of fighting infection.
+The wound healed without leaving a scar.
+The dentist filled two small holes in my teeth.
+Eye drops helped with the dryness.
+The surgeon replaced his damaged knee.
+Laughing uses more muscles than frowning, or so they say.
+Too much salt raises your blood pressure.
+Handwashing is one of the best ways to stop infections.
+The hospital uses robots for some operations.
+The patient was given oxygen in the ambulance.
+Scientists developed the vaccine in record time.
+Our sense of smell is closely linked to memory.
+The stomach produces acid to digest food.
+# Earth, weather and environment.
+The Earth's core is as hot as the surface of the Sun.
+Most of the Earth's surface is covered by water.
+The ice at the poles reflects sunlight back into space.
+Lightning is hotter than the surface of the Sun.
+Thunder is the sound of air expanding around lightning.
+Hurricanes form over warm ocean water.
+A tornado can lift a car into the air.
+The desert gets less than a hundred millimeters of rain a year.
+Salt lakes are drying up in many parts of the world.
+Sand storms are becoming more common in the region.
+The glacier has shrunk by half in fifty years.
+Trees absorb carbon dioxide and release oxygen.
+The oceans are slowly becoming more acidic.
+Sea levels are rising as the ice melts.
+The forest recovered slowly after the fire.
+Rainwater can be collected and used in the garden.
+Electric cars produce no fumes on the street.
+The city banned plastic bags in all its shops.
+Composting turns kitchen waste into rich soil.
+Wetlands protect the land from floods.
+The monsoon brings heavy rain every summer.
+Snow on the mountains feeds the rivers in spring.
+The dam provides water and electricity for the whole region.
+Earthquakes are common along the edges of the plates.
+Scientists can predict eclipses hundreds of years ahead.
+# Scientific method and discovery.
+Every good experiment starts with a clear question.
+The results were repeated in three different laboratories.
+A theory must make predictions that can be tested.
+The scientist recorded every measurement in her notebook.
+They published their findings in a famous journal.
+The discovery was made completely by accident.
+The team spent ten years collecting data.
+Other scientists could not reproduce the results.
+The hypothesis turned out to be wrong, which was still useful.
+Science is a way of asking questions about the world.
+The research was funded by the government.
+She presented her work at a conference in Vienna.
+The observations didn't match the model.
+Good scientists are always ready to change their minds.
+The experiment had to be stopped because of a power cut.
+The laboratory is kept at exactly the same temperature.
+The sample was too small to draw any conclusions.
+The results surprised even the researchers.
+Peer review helps catch mistakes before publication.
+The Nobel Prize was shared by three scientists.
+# Energy and technology.
+Wind farms are being built along the coast.
+Nuclear fusion could provide almost unlimited energy.
+Oil and gas are running out slowly.
+The power plant burns coal to make electricity.
+Hydroelectric dams use falling water to turn turbines.
+Geothermal energy comes from the heat inside the Earth.
+Batteries are getting cheaper and more powerful.
+Hydrogen could power trucks and ships in the future.
+Energy efficient light bulbs last for years.
+The electricity grid has to balance supply and demand.
+Insulation keeps the heat inside in winter.
+Solar power works even on cloudy days, just less well.
+The factory switched to renewable energy last year.
+Engines waste most of their fuel as heat.
+Lithium is an important metal for batteries.
+# Space and astronomy, more.
+The International Space Station orbits the Earth every ninety minutes.
+From space, the Earth looks blue and fragile.
+The Moon is slowly moving away from the Earth.
+A day on Venus is longer than its year.
+Jupiter has dozens of moons.
+Saturn would float if you could find a big enough bath.
+Mars has the tallest volcano in the solar system.
+The Sun will shine for billions of years more.
+Light from the Sun takes about eight minutes to reach us.
+The nearest star is more than four light years away.
+The telescope in space sees without clouds or city lights.
+Astronauts grow slightly taller in space.
+The first spacecraft left the solar system decades ago.
+Meteorites are pieces of rock that fall from space.
+The northern lights are caused by particles from the Sun.
+Some stars are thousands of times bigger than the Sun.
+The universe is expanding in every direction.
+There may be oceans hidden under the ice of distant moons.
+The rover found signs that Mars once had rivers.
+The launch was delayed because of strong winds.
+# The human body and the mind.
+The human brain has billions of nerve cells.
+Short term memory can only hold a few things at once.
+Exercise helps the brain as much as the body.
+Children learn languages more easily than adults.
+Dreams happen mostly during a certain stage of sleep.
+The body loses water even when we breathe.
+Our fingerprints are unique, even among twins.
+Bones are constantly being rebuilt.
+The eye adjusts to darkness in about twenty minutes.
+Our sense of taste is weaker when we have a cold.
+Hearing loss often starts with high sounds.
+Stress hormones prepare the body to fight or run.
+Humans share many genes with other animals.
+The appendix may not be as useless as people thought.
+Babies are born with more bones than adults.
+Hunger is controlled by signals from the stomach and the brain.
+The skin renews itself every few weeks.
+The immune system remembers infections for years.
+Sunlight helps the skin make vitamin D.
+The heart beats faster when we are frightened.
+# Chemistry in everyday life.
+Baking soda makes cakes rise.
+Rust forms when iron reacts with water and oxygen.
+Soap breaks up grease so water can wash it away.
+Bleach can be dangerous if it's mixed with other cleaners.
+Onions make us cry because of a chemical they release.
+Salt is used to keep food from going bad.
+Vinegar is a weak acid.
+Fire needs fuel, heat and oxygen.
+Fireworks get their colors from different metals.
+Plastic is made from oil.
+Milk turns sour when bacteria produce acid.
+Sugar dissolves faster in hot water.
+The smell of rain comes from chemicals in the soil.
+Batteries lose their charge more quickly in the cold.
+Perfume is made by mixing oils with alcohol.
+Bread goes stale because the starch changes.
+Chlorine is added to swimming pools to kill germs.
+Toothpaste contains a mineral that protects teeth.
+Cooking changes the proteins in an egg.
+Paint dries as the liquid in it evaporates.
+# Geology and the oceans.
+Mountains form when two plates of the Earth's crust collide.
+Rocks can bend and fold under enormous pressure.
+Fossils show us what life looked like millions of years ago.
+The ocean floor is covered in mountains and valleys.
+The deepest part of the ocean is deeper than Everest is high.
+Tides are caused by the pull of the Moon.
+Waves are made by wind blowing across the water.
+Coral reefs grow only a few centimeters each year.
+The Atlantic Ocean gets a little wider every year.
+Most volcanoes are found around the edges of the Pacific.
+Caves form when water slowly dissolves limestone.
+Sand is made of tiny pieces of rock and shell.
+The Earth's magnetic field protects us from solar wind.
+Earthquakes can trigger landslides in the mountains.
+The salt in the sea comes from rocks on land.
+Ocean currents carry warm water from the equator to the poles.
+Icebergs are mostly hidden under the water.
+Some rivers flow underground for miles.
+Diamonds form deep under the Earth's surface.
+Scientists drill into the ice to study the ancient climate.
+# Weather science.
+Clouds form when warm, wet air rises and cools.
+Rain falls when droplets in a cloud become too heavy.
+Snowflakes all have six sides.
+Hail forms inside tall storm clouds.
+The wind blows from high pressure to low pressure.
+Weather satellites watch storms from space.
+Fog is simply a cloud that touches the ground.
+Dew forms on the grass on cool, clear nights.
+A barometer measures the pressure of the air.
+The monsoon winds change direction with the seasons.
+Heat waves are becoming longer and more frequent.
+Meteorologists use computers to predict the weather.
+The eye of a hurricane is strangely calm.
+Air pollution gets trapped when there is no wind.
+Cities are warmer than the countryside around them.
+# Animals and nature, more.
+Bats find their way in the dark using echoes.
+Some turtles return to the same beach where they were born.
+Salmon swim upstream to lay their eggs.
+Chameleons change color to communicate.
+Owls can turn their heads almost all the way around.
+Giraffes sleep for only a few hours a day.
+Honeybees dance to tell each other where the flowers are.
+Male seahorses carry the eggs.
+Polar bears have black skin under their white fur.
+Some frogs can survive being frozen.
+Elephants mourn their dead.
+The hummingbird can fly backwards.
+Ants farm fungi in their underground nests.
+Jellyfish have no brain and no heart.
+Sloths move so slowly that plants grow on their fur.
+Kangaroos can't walk backwards.
+The Arctic tern flies from pole to pole every year.
+Termites build towers that stay cool in the heat.
+Some plants eat insects.
+Bamboo can grow almost a meter in a single day.
+# Health and medicine, more.
+Regular checkups can catch problems early.
+Washing your hands prevents many infections.
+Too much screen time can harm children's sleep.
+Walking every day is good for the heart.
+Vaccines have saved millions of lives.
+Antibiotics should only be used when they are really needed.
+Sugar is one of the main causes of tooth decay.
+Getting enough sleep improves memory and mood.
+The doctor checked his blood sugar and his cholesterol.
+Physical therapy helped her walk again.
+The new drug was tested on thousands of volunteers.
+Eating slowly helps you feel full sooner.
+Sunscreen protects the skin from burning.
+Loud music can damage your hearing over time.
+The body needs water more than it needs food.
+Pregnant women need more iron and folic acid.
+Laughing lowers stress hormones.
+The cast will come off his arm in six weeks.
+The operation was performed through a tiny cut.
+Some illnesses run in families.
+# Numbers and measurement.
+A kilometer is a thousand meters.
+There are sixty minutes in an hour and sixty seconds in a minute.
+Water boils at one hundred degrees at sea level.
+Water freezes at zero degrees.
+A leap year has one extra day.
+The Earth is about one hundred and fifty million kilometers from the Sun.
+Nothing in the universe travels faster than light.
+A million is a thousand thousands.
+The average person walks several thousand steps a day.
+A circle has three hundred and sixty degrees.
+The recipe needs two cups of flour and one egg.
+The temperature dropped by ten degrees overnight.
+The bridge is almost two kilometers long.
+The baby was small, but healthy and strong.
+The marathon is just over forty-two kilometers long.
+Half of twelve is six.
+Seven times eight is fifty-six.
+The room is five meters wide and six meters long.
+The speed limit on the highway is one hundred and twenty.
+The tallest mountain in Iran is an old volcano near Tehran.
+# Explaining how things work.
+A refrigerator moves heat from the inside to the outside.
+A microwave oven heats food by making water molecules move.
+A thermostat switches the heating on and off to keep the room warm.
+An airplane flies because its wings push air downwards.
+A submarine dives by filling its tanks with water.
+A bicycle stays upright more easily when it's moving.
+A rainbow is sunlight bent and split by drops of water.
+A mirror reflects almost all the light that hits it.
+A lens bends light to make things look bigger.
+A camera works in much the same way as an eye.
+A speaker turns electrical signals into sound.
+A microphone turns sound into electrical signals.
+A pressure cooker cooks food faster by raising the boiling point.
+A solar panel turns light into electricity without moving parts.
+A compass works because the Earth is a giant magnet.
+A thermometer works because liquids expand when they're warm.
+A hot air balloon rises because warm air is lighter.
+Ships float because they push aside a lot of water.
+Glasses correct the way light enters the eye.
+A battery runs out when its chemicals are used up.
+# Environment and conservation.
+Planting trees is one of the simplest ways to fight climate change.
+Many species are disappearing faster than ever before.
+The river was cleaned, and the fish came back.
+Plastic bottles can take centuries to break down.
+Saving water is especially important in dry countries.
+The national park protects rare animals and plants.
+Bees are in danger because of pesticides.
+Cycling to work reduces pollution and traffic.
+Some cities now turn food waste into energy.
+The lake shrank because too much water was taken for farms.
+Forests are cut down to make room for farms and roads.
+Scientists are trying to save the coral reefs.
+Electric buses have made the air cleaner in some cities.
+The wetland is a stopping point for migrating birds.
+Light pollution hides the stars from city dwellers.
+The Persian cheetah is one of the rarest animals on Earth.
+Reusing a bag is better than recycling it.
+The oceans absorb a large part of the heat we produce.
+The desert is spreading in many parts of the world.
+Small changes by millions of people can make a big difference.
+# Maths and logic, more.
+If you double a number and then halve it, you get the same number.
+A square has four equal sides and four right angles.
+The angles of a triangle always add up to one hundred and eighty degrees.
+An even number plus an even number is always even.
+A dozen means twelve.
+Percentages are simply fractions of a hundred.
+The average is the total divided by the number of values.
+Probability tells us how likely something is to happen.
+A straight line is the shortest path between two points.
+Parallel lines never meet.
+Multiplying by ten adds a zero to the end of a whole number.
+Negative numbers are smaller than zero.
+The number seven is considered lucky in many cultures.
+A graph can show a pattern that a table hides.
+A cube has six faces, eight corners and twelve edges.
+Fractions can be added only when they have the same bottom number.
+Logic helps us tell a good argument from a bad one.
+She calculated the answer faster than the calculator.
+The puzzle looks hard, but the solution is simple.
+Estimating is a useful skill in everyday life.
+# Short science facts.
+Light is faster than sound.
+Water expands when it freezes.
+The Moon has no light of its own.
+Plants need light to grow.
+Humans have twenty-three pairs of chromosomes.
+The Sun is a medium sized star.
+Sound travels in waves.
+Iron is attracted to magnets.
+Diamonds are the hardest natural material.
+The heart is a muscle.
+Bats are the only mammals that can fly.
+Salt water is heavier than fresh water.
+Mars has two small moons.
+Gold is a very soft metal.
+Oxygen makes up about a fifth of the air.
+Hot air rises and cold air sinks.
+Spiders are not insects.
+Our blood is red because of iron.
+The Earth spins once a day.
+Some stars we see no longer exist.
+# Scientists at work.
+The biologist spent months studying ants in the rainforest.
+The astronomer stayed up all night to watch the comet.
+The chemist discovered a new way to make plastic from plants.
+The geologist collected rocks from the side of the volcano.
+The physicist explained the theory with a simple drawing.
+The doctor is researching a cure for a rare disease.
+The engineer designed a bridge that can survive earthquakes.
+The botanist found a plant that was thought to be extinct.
+The marine biologist dives with sharks for her research.
+The team of archaeologists found a buried city.
+The meteorologist warned of a severe storm.
+The mathematician solved a problem that had puzzled experts for decades.
+The psychologist studies how children learn to speak.
+The ecologist counts the birds in the wetland every spring.
+The volcanologist measured the gases coming from the crater.
+# The universe and our place in it.
+There are more stars in the universe than grains of sand on all the beaches.
+Our solar system formed from a huge cloud of gas and dust.
+The light we see from distant galaxies left them billions of years ago.
+The Milky Way will one day collide with a nearby galaxy.
+Most of the universe is made of something we cannot see.
+The Big Bang theory describes how the universe began.
+Planets form from disks of dust around young stars.
+Gravity shapes galaxies, stars and planets.
+Some planets orbit two suns at once.
+A neutron star is so dense that a spoonful would weigh millions of tons.
+The Sun loses millions of tons of mass every second.
+Earth's atmosphere protects us from most meteors.
+The Voyager spacecraft carry a golden record of sounds from Earth.
+Scientists listen for radio signals from other civilizations.
+Life may exist on moons with hidden oceans.
+Space is completely silent because there is no air.
+A year on Mercury lasts only eighty-eight days.
+The rings of Saturn may disappear in a few hundred million years.
+Astronauts see sixteen sunrises every day on the space station.
+Looking at the night sky is looking back in time.
+# Inventions.
+The wheel is one of the oldest inventions in the world.
+Paper was invented in China almost two thousand years ago.
+The compass helped sailors cross the oceans.
+The steam engine powered the first factories and trains.
+The light bulb changed the way people lived at night.
+The telephone let people talk across great distances.
+The airplane made the world feel much smaller.
+Antibiotics have saved countless lives.
+The refrigerator changed how we store and buy food.
+The printing press made books cheap enough for ordinary people.
+The camera let people capture moments forever.
+The computer is the most important invention of the last century.
+The bicycle gave ordinary people freedom to travel.
+The telescope opened our eyes to the universe.
+The microscope revealed a hidden world of tiny living things.
+Vaccines were invented after a doctor noticed that milkmaids didn't get smallpox.
+The internet connected people all over the world.
+Glasses have helped people read for more than seven hundred years.
+The washing machine gave people back many hours every week.
+The satellite made global communication possible.
+# Health tips.
+Try to walk at least thirty minutes a day.
+Eat a rainbow of fruits and vegetables.
+Drink water instead of sugary drinks.
+Get up and stretch every hour if you sit at a desk.
+Sleep in a dark, quiet and cool room.
+Wear a helmet when you ride a bike.
+Wash fruit and vegetables before eating them.
+Don't skip breakfast if you have a busy morning.
+Protect your eyes with sunglasses in bright sunlight.
+Take breaks from screens to rest your eyes.
+Brush your teeth twice a day.
+Keep a first aid kit at home and in the car.
+See a doctor if a cough lasts more than three weeks.
+Laughter and friendship are good for your health.
+Learn the basics of first aid, it could save a life.
+# Science in the news.
+Researchers found a new species of frog in the rainforest.
+A new study links poor sleep to heart disease.
+Scientists have grown a tiny human heart in the laboratory.
+The telescope spotted a planet that might have water.
+A new battery could charge an electric car in minutes.
+The vaccine was shown to be safe for young children.
+Engineers built a robot that can climb walls.
+The oldest known cave painting was found in Indonesia.
+Doctors used gene therapy to cure a rare disease.
+The glacier lost more ice this year than ever recorded.
+A comet will pass close to the Earth next month.
+Scientists discovered a bacterium that eats plastic.
+The drought has reduced the harvest across the region.
+The new bridge uses a special kind of concrete that heals itself.
+A study found that walking in nature reduces stress.
+The rover collected rock samples to bring back to Earth.
+Researchers trained dogs to smell certain illnesses.
+The new drug slowed the disease in most patients.
+The sea ice in the Arctic reached a record low.
+Scientists recorded the song of a whale that no one had heard before.
+# Biology of plants and food.
+Tomatoes are fruits, not vegetables, according to botanists.
+Rice needs a lot of water to grow.
+Wheat was one of the first crops people farmed.
+Saffron comes from the flower of a crocus.
+Pistachios grow on trees in dry, hot places.
+Potatoes came to Europe from South America.
+Bananas are slightly radioactive, which is harmless.
+Coffee beans are the seeds of a red fruit.
+Chocolate is made from the seeds of the cacao tree.
+Honey is made from the nectar of flowers.
+Yeast is a tiny fungus that makes bread rise.
+Carrots were once purple, not orange.
+Plants can communicate through chemicals in the air.
+Some seeds can survive for thousands of years.
+Flowers are brightly colored to attract insects.
+Mushrooms are connected underground by a huge network.
+Apple seeds contain a small amount of poison.
+Grapes have been grown for wine and food for thousands of years.
+Garlic has been used as a medicine for centuries.
+Dates are one of the oldest cultivated fruits in the world.
+# Questions scientists ask.
+Why do we sleep?
+How did life begin on Earth?
+Are we alone in the universe?
+What is the universe made of?
+Why do we dream?
+How does the brain store memories?
+What happens inside a black hole?
+Why do we age?
+How do birds find their way across oceans?
+Can we cure every disease?
+How much of the ocean have we explored?
+Why is the sky dark at night if there are so many stars?
+What is consciousness?
+How will climate change affect our children?
+Could humans live on Mars one day?
+Why do some people get sick and others don't?
+How do plants know when to flower?
+What was there before the Big Bang?
+How do animals sense earthquakes before they happen?
+Why do we have fingerprints?
+# Why things happen.
+We see lightning before we hear thunder because light travels faster.
+Leaves are green because they contain chlorophyll.
+The sky is blue because air scatters blue light more than red.
+Sunsets are red because the light passes through more air.
+Onions make you cry because they release a gas that irritates the eyes.
+Your ears pop on a plane because the air pressure changes.
+Bread rises because yeast produces gas.
+Ice cubes crack in a drink because the warm liquid makes them expand unevenly.
+We yawn when we're tired, but nobody is completely sure why.
+Metal feels colder than wood because it takes heat from your hand faster.
+Stars twinkle because their light passes through moving air.
+Cats purr for many reasons, not only when they're happy.
+Soap bubbles show rainbow colors because of thin layers of water.
+The Moon looks bigger near the horizon, but it isn't really.
+Hair turns grey when cells stop producing color.
+We get goosebumps when we're cold or frightened.
+Sneezing clears dust and germs from the nose.
+Salt melts ice on the roads in winter.
+A spoon in a glass of water looks bent because light bends.
+Our voices sound different on recordings because we usually hear them through our bones.
+# Health and the body, again.
+Your heart pumps blood around your body about once every minute.
+The small intestine is several meters long.
+Muscles work in pairs, one pulling and the other relaxing.
+Our eyes blink thousands of times a day.
+The human body is mostly water.
+Nerves carry messages from the brain to the body in a fraction of a second.
+Babies can recognize their mother's voice from birth.
+Your sense of balance comes from your inner ear.
+Teeth are covered in enamel, the hardest substance in the body.
+The lungs contain millions of tiny air sacs.
+The kidneys filter the blood many times a day.
+The brain is only a small part of the body's weight, but it uses a lot of energy.
+Bones are living tissue that can repair themselves.
+Hiccups are caused by sudden movements of the diaphragm.
+Your fingernails grow faster than your toenails.
+# Science for children.
+Plants drink water through their roots.
+The Earth is round like a ball.
+Birds have hollow bones that make them light.
+Fish breathe through their gills.
+The Sun gives us light and heat.
+Snow is made of tiny ice crystals.
+Caterpillars turn into butterflies.
+Frogs start their lives as tadpoles.
+Dinosaurs lived long before people.
+The Moon changes shape during the month.
+Bees make honey from flowers.
+Magnets can pull some metals without touching them.
+Rain comes from clouds.
+Seeds grow into plants.
+Our hearts pump blood around our bodies.
+Some animals sleep all winter long.
+Volcanoes can shoot out hot melted rock.
+Stars are very far away suns.
+Trees give us oxygen to breathe.
+Water can be a solid, a liquid or a gas.
+# Numbers in nature.
+A spider has eight legs, and an insect has six.
+An octopus has eight arms.
+A starfish usually has five arms.
+Most flowers have petals in groups of three, four or five.
+A cat has thirty teeth, and a dog has forty-two.
+Humans have thirty-two adult teeth.
+A giraffe's neck has seven bones, just like ours.
+Honeycomb cells have six sides.
+A hummingbird's heart can beat more than a thousand times a minute.
+Some trees are thousands of years old.
+The Earth has one Moon, and Mars has two.
+A year on Earth has three hundred and sixty-five days.
+Snowflakes have six points.
+An ant colony can have millions of ants.
+A blue whale's heart is the size of a small car.
+# The periodic table.
+Hydrogen is the lightest and most common element.
+Helium makes balloons float and voices squeak.
+Carbon is the basis of all life on Earth.
+Oxygen is needed for breathing and for burning.
+Iron is the main ingredient in steel.
+Copper is used in electrical wires.
+Silver conducts electricity better than any other metal.
+Gold never rusts or tarnishes.
+Uranium is used as fuel in nuclear power stations.
+Neon glows red in advertising signs.
+Calcium is found in milk, bones and chalk.
+Sodium explodes when it touches water.
+Silicon is used to make computer chips.
+Lead was once used in paint and petrol.
+Mercury is the only metal that is liquid at room temperature.
+# Weather and seasons explained.
+The seasons are caused by the tilt of the Earth.
+When it's summer in the north, it's winter in the south.
+Days are longer in summer because the Sun is higher in the sky.
+The equator is warm all year round.
+The poles have six months of daylight and six of darkness.
+Mountains are colder because the air is thinner.
+Deserts are dry because rain clouds rarely reach them.
+The Caspian coast is wet because the mountains trap the clouds.
+Winds blow because the Sun heats the Earth unevenly.
+Coastal cities have milder weather than inland ones.
+# Surprising facts.
+There are more trees on Earth than stars in the Milky Way.
+Octopuses can taste with their arms.
+Bananas are berries, but strawberries are not.
+A day on Earth was once only about six hours long.
+Some metals burn with bright colors.
+Sharks existed before trees.
+A single cloud can weigh as much as a hundred elephants.
+Hot water can freeze faster than cold water in some conditions.
+Your stomach gets a new lining every few days.
+Some turtles can breathe through their tails.
+Sound travels about four times faster in water than in air.
+The shortest war in history lasted less than an hour.
+Butterflies remember what they learned as caterpillars.
+A teaspoon of soil contains billions of tiny living things.
+Venus spins in the opposite direction to most planets.
+The human nose can detect a huge number of different smells.
+Cows have best friends and get stressed when they are separated.
+Rats laugh when they are tickled.
+Wombats produce cube shaped droppings.
+Some jellyfish can live forever, in a way.
+# Space exploration.
+The first satellite was launched in the fifties.
+Humans first walked on the Moon in the sixties.
+Twelve astronauts have walked on the Moon.
+The space station is the size of a football field.
+Robots have explored the surface of Mars for years.
+A probe landed on a comet and sent back photos.
+Space tourism has become a reality for the very rich.
+Rockets are now being reused to cut costs.
+The telescope in space can see the first galaxies.
+Astronauts exercise every day to keep their muscles strong.
+In space, water forms floating balls.
+Food for astronauts is packed in special bags.
+The journey to Mars would take several months.
+Satellites help farmers, sailors and pilots every day.
+Space junk is becoming a serious problem.
+# Energy at home.
+Turning down the heating by one degree saves energy.
+LED bulbs use far less power than old ones.
+A full dishwasher uses less water than washing by hand.
+Solar water heaters are common on roofs in sunny countries.
+Double glazed windows keep heat inside in winter.
+Unplugging chargers saves a little electricity.
+Washing clothes in cold water uses less energy.
+A fridge works harder when its door is opened often.
+Insulating the roof keeps the house cooler in summer.
+Drying clothes outside is free and good for the planet.
+# Famous experiments.
+Galileo dropped balls of different weights to study falling.
+Newton used a prism to show that white light contains colors.
+Franklin's kite experiment showed that lightning is electricity.
+Pasteur showed that boiled broth stays fresh if germs can't reach it.
+Mendel crossed pea plants to study how traits are passed on.
+Pavlov's dogs learned to expect food when they heard a bell.
+The first vaccine was tested on a young boy.
+Scientists split the atom for the first time in the thirties.
+An astronaut dropped a hammer and a feather on the Moon, and they landed together.
+A famous experiment showed that light can behave like a wave.
+# The human mind.
+We remember stories better than lists of facts.
+Sleep helps us turn practice into skill.
+People are more creative when they are relaxed.
+Music can change our mood in seconds.
+Habits take weeks to form and minutes to break.
+Our brains notice faces everywhere, even in clouds.
+Stress makes it harder to remember things.
+Learning a new skill changes the structure of the brain.
+We tend to believe information that agrees with us.
+Laughing with others makes people feel closer.
+# Food science.
+Salt makes food taste stronger.
+Sugar feeds the yeast in bread dough.
+Vinegar keeps pickles from going bad.
+Rice absorbs water as it cooks.
+Onions turn sweet when they're cooked slowly.
+Freezing stops bacteria from growing, but doesn't kill them.
+Lemon juice stops cut apples from turning brown.
+Boiling kills most harmful germs.
+Heat turns sugar into caramel.
+Milk contains protein, fat and sugar.
+Eggs become firm because their proteins change with heat.
+Spices were once more valuable than gold.
+Fermentation turns milk into yogurt.
+Chili peppers feel hot because of a chemical called capsaicin.
+Honey is so sweet that bacteria can't grow in it.
+# Water.
+Most of the water on Earth is salty.
+Only a small part of the world's water is fresh and easy to reach.
+Water covers about seventy percent of the Earth's surface.
+The human body can survive only a few days without water.
+Water expands when it turns into ice.
+Rain clouds form when warm, wet air rises over the mountains.
+Rivers carry fresh water from the mountains to the sea.
+Water is sometimes called the universal solvent.
+Farming uses more water than anything else.
+A dripping tap can waste a lot of water every year.
+Iran has been building underground channels for water for thousands of years.
+The ancient water channels still carry water in some villages.
+Water boils at a lower temperature on a mountain.
+Rain is the main source of fresh water in many regions.
+Saving water is everyone's responsibility.
+# Scientists' advice for daily life.
+Get some sunlight every morning to help you sleep at night.
+Wash your hands for at least twenty seconds.
+Keep raw meat away from other food.
+Don't use antibiotics for a cold.
+Take the stairs whenever you can.
+Eat slowly and stop when you're full.
+Wear sunscreen even on cloudy days.
+Keep screens out of the bedroom.
+Spend time in nature to reduce stress.
+Drink water before you feel thirsty.
+Learn something new to keep your brain active.
+Stand up and move every half hour.
+Get enough sleep before an important exam.
+Store medicines in a cool, dry place.
+Open the windows to let fresh air in.
+# Short science questions.
+Why do cats purr?
+How do fish sleep?
+Why is the sea salty?
+How far away is the Moon?
+Why do leaves fall in autumn?
+How do bees make honey?
+Why do we have seasons?
+What makes thunder so loud?
+How do birds know where to fly?
+Why does ice float?
+How hot is the Sun?
+Why do we need sleep?
+How do plants grow?
+What is a black hole?
+Why is the ocean blue?
+# Nature's records.
+The Mariana Trench is the deepest place in the ocean.
+The Sahara is the largest hot desert on Earth.
+Antarctica is the coldest, windiest and driest continent.
+The cheetah can run faster than a car in the city.
+The giraffe is the tallest animal alive today.
+The blue whale's call is louder than a jet engine.
+Greenland is the largest island that isn't a continent.
+The Amazon is the largest river by volume of water.
+Mount Everest grows a few millimeters every year.
+The African elephant is the heaviest land animal.
+Hummingbirds are the smallest birds in the world.
+The Dead Sea is the lowest point on land.
+Lake Baikal holds about a fifth of the world's fresh surface water.
+The Pacific is bigger than all the land on Earth put together.
+The redwood trees of California are the tallest trees in the world.
+# Everyday physics.
+A spinning top stays upright as long as it spins fast.
+A swing goes higher if you push at the right moment.
+A heavy truck needs more distance to stop.
+A straw works because air pushes the drink up.
+A seesaw balances when both sides push equally.
+Ice skates glide on a thin layer of water.
+Wet hands lose heat faster in the wind.
+A shadow is longest early in the morning and late in the evening.
+The sound of a siren changes as the car passes you.
+A bicycle is easier to balance when it's moving fast.
+# Final science batch.
+The universe is full of mysteries we have yet to solve.
+Every living thing is made of cells.
+Science begins with curiosity.
+The stars we see tonight are far older than the Earth.
+Water is essential for every form of life we know.
+The brain is the most complex thing in the known universe.
+Plants were on land long before animals.
+The Earth is the only planet not named after a god.
+Most of an atom is empty space.
+Our bodies contain atoms made inside ancient stars.

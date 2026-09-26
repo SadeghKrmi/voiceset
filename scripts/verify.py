@@ -32,6 +32,8 @@ SAVE_EVERY = 50
 
 def letters(text: str) -> str:
     """What a sentence says, as bare letters: numbers as words, nothing else."""
+    text = text.replace("%", " percent ")        # Whisper writes "twenty percent" as 20%
+    text = re.sub(r"(?<=\d),(?=\d{3})", "", text)  # 300,000 is one number
     text = re.sub(r"\d+", lambda m: " " + num2words(int(m.group())) + " ", text)
     return re.sub(r"[^a-z]", "", text.lower())
 

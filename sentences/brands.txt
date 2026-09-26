@@ -1,0 +1,493 @@
+# Companies and products whose names Persian text writes in Latin letters.
+# One sentence per line; the file name is the category. No digits or symbols.
+I searched for the address on Google Maps.
+She bought her first iPhone with money from her summer job.
+We watched a documentary on Netflix last night.
+He sends all his work files through WhatsApp.
+Instagram is where she sells her handmade candles.
+My father still reads the news on Facebook.
+The package from Amazon arrived a day early.
+Tesla cars can update their software overnight.
+The Toyota in our garage is older than I am.
+She wore her favorite Nike shoes to the marathon.
+The Adidas store in the mall is having a sale.
+He plays football games on his PlayStation every weekend.
+Our office computers run Windows, but the designers use Macs.
+Telegram channels are a popular way to share news in Iran.
+I learned to cook rice from a YouTube video.
+The new Samsung phone folds in half like a book.
+Most of the world searches the internet with Google.
+Spotify made a playlist for my morning run.
+We ordered a taxi through Uber in London.
+He updated his LinkedIn profile before applying for jobs.
+TikTok videos are short, but they can take hours of your day.
+The meeting will be on Zoom, not in the office.
+I used to call my cousins on Skype every Sunday.
+My grandmother loves her new iPad.
+The Android version of the app has more features.
+Linux runs on most of the servers in the world.
+The Xbox controller works with my computer too.
+Nintendo games are fun for the whole family.
+He takes his Canon camera everywhere he travels.
+My brother's Huawei phone takes better photos than mine.
+She's been using the same Lenovo laptop for six years.
+The Dell monitor on my desk is bright and sharp.
+We bought an HP printer that only prints in black.
+The Peugeot was the most common car in Tehran for years.
+He dreams of driving a Ferrari one day.
+The Porsche drove past us so fast that we barely saw it.
+A Volkswagen van carried the whole band and its instruments.
+Hyundai and Kia cars are everywhere in our city.
+The Mercedes in the wedding was decorated with flowers.
+The BMW needed an expensive repair after the accident.
+The children built a castle out of LEGO bricks.
+We watched the new Disney film with our nieces.
+He drinks a Coca-Cola with every meal, which worries his doctor.
+The line at McDonald's went out the door.
+She works at a Starbucks near the university.
+We spent a whole Saturday walking through IKEA.
+The Rolex on his wrist turned out to be fake.
+She bought a Zara coat on sale.
+I paid for the course with PayPal.
+He sold his old camera on eBay.
+Alibaba connects small shops with factories in China.
+Wikipedia is often the first place students look for answers.
+ChatGPT helped me write a polite complaint letter.
+NVIDIA graphics cards are used to train large models.
+The Intel processor in this laptop is quite fast.
+The Philips razor has lasted him more than ten years.
+Our Bosch washing machine is quiet and reliable.
+The LG television in the living room is huge.
+My aunt uses a Panasonic rice cooker every day.
+She loves the smell of Nescafe in the morning.
+The children fought over the last jar of Nutella.
+A Boeing plane landed in the fog without any trouble.
+The Airbus was full of families going on holiday.
+We flew with Emirates and changed planes in Dubai.
+Turkish Airlines lost my suitcase in Istanbul.
+DHL delivered the documents in two days.
+She designed the poster in Canva in ten minutes.
+He edits photos in Photoshop for a magazine.
+My boss sends everything as an Excel file.
+The presentation was in PowerPoint, with far too many slides.
+I wrote the letter in Microsoft Word and saved it as a document.
+Chrome uses a lot of memory on older computers.
+Firefox is the browser I've used since school.
+Safari opens the link automatically on my iPhone.
+My Gmail inbox has thousands of unread messages.
+Our company switched from Outlook to Gmail.
+He shares large files through Dropbox.
+The code for the project is on GitHub.
+Our team talks on Slack instead of email.
+My friends and I chat on Discord while we play.
+She streams her painting sessions on Twitch.
+Reddit has a forum for almost every hobby.
+I save cake ideas on Pinterest.
+Duolingo keeps reminding me to practice my Spanish.
+He reads on a Kindle so his bag stays light.
+Waze warned us about the police car ahead.
+The Apple Watch reminded her to breathe deeply.
+Google Translate helped us order food in Tokyo.
+The AirPods fell out of his pocket on the bus.
+The MacBook is expensive, but it lasts for years.
+She uses Google Docs to write with her classmates.
+I keep my notes in Google Drive.
+The Samsung Galaxy was her first smartphone.
+Microsoft Teams crashed right before my presentation.
+The Sony headphones block out the noise of the city.
+My father trusts only Nokia phones.
+Instagram stories disappear after one day.
+Amazon started as a shop that only sold books.
+Netflix raised its prices again this year.
+The YouTube channel has more subscribers than the city has people.
+The Tesla drove itself along the highway.
+I bought a Nikon camera to photograph birds.
+The Puma shoes were comfortable from the first day.
+Gucci bags are famous, and famously expensive.
+Visa and Mastercard are accepted almost everywhere abroad.
+Pepsi and Coca-Cola have competed for more than a century.
+The Red Bull team won the race in the rain.
+Lipton tea bags are in every office kitchen.
+The Shell station on the corner sells coffee too.
+Siemens makes trains as well as washing machines.
+The Toshiba laptop was heavy but tough.
+The Canon printer prints photos beautifully.
+The Asus laptop was cheaper than I expected.
+Uber Eats delivered our dinner in twenty minutes.
+He reserved a table through Google.
+My Kindle and my phone both need charging.
+She watched a Netflix series in English with English subtitles.
+The new iPhone doesn't come with a charger in the box.
+We use Microsoft Excel for our family budget.
+Apple and Samsung sell most of the expensive phones.
+He downloaded the Telegram desktop app for work.
+WhatsApp groups for school parents are always busy.
+She deleted Facebook but kept Instagram.
+Amazon Prime delivers the next day in most cities.
+The PlayStation was sold out before Christmas.
+YouTube Music plays in the background on my phone.
+The LinkedIn message was from a recruiter in Dubai.
+Google Meet works right in the browser.
+He jokes that his Toyota will outlive him.
+The Nike advertisement was filmed in Kenya.
+Our school gave every student a Google account.
+She learned design from free videos on YouTube.
+Disney bought several famous studios over the years.
+The IKEA instructions had pictures but no words.
+He orders the same Starbucks coffee every morning.
+The McDonald's in the airport never closes.
+They rented a small apartment through a booking website near the old town.
+The electric scooter folds up and fits in the trunk of the car.
+Google Photos found every picture of our dog.
+The Toyota Corolla is one of the most popular cars ever made.
+She drinks her coffee from a Starbucks mug at home.
+He scrolled through Instagram instead of doing his homework.
+The WhatsApp message had two blue ticks, but no reply.
+My mother learned to make video calls on Telegram.
+The Netflix subscription is shared by the whole family.
+I found the cheapest flight on Google Flights.
+The YouTube video had the recipe in the description.
+She reads the Wikipedia article before every exam.
+He wears Adidas trainers to the gym.
+The Samsung television turned itself on in the middle of the night.
+Spotify knows my taste in music better than my friends do.
+The Uber driver played Persian music the whole way.
+The Nintendo console fits in a small backpack.
+The Sony camera is popular with young filmmakers.
+Our first family car was a Peugeot.
+The Hyundai dealer offered us a discount.
+She bought a Kia because it was reliable and cheap.
+The Lenovo tablet is perfect for reading on the train.
+My uncle drives a Volkswagen Beetle from the seventies.
+Bosch makes tools that last for decades.
+The Nokia phone survived being dropped in the snow.
+He bought a Lipton iced tea at the station.
+The Duolingo owl sends me worried messages when I skip a lesson.
+Reddit users answered his question within minutes.
+The Dropbox folder syncs across all my devices.
+Pinterest is full of ideas for small apartments.
+Firefox blocked the pop-up windows.
+She edited the video with a free app instead of Adobe Premiere.
+Adobe Photoshop is still the standard for photo editing.
+He studies for exams with flashcards on Quizlet.
+My father prints everything on his old Epson printer.
+The Mercedes Benz museum in Stuttgart is worth a visit.
+Audi and BMW are both German car makers.
+Lamborghini started as a tractor company.
+Coca-Cola keeps its recipe a closely guarded secret.
+KitKat bars are my weakness during exams.
+The Pringles can was empty before the film even started.
+Nestle makes many of the products in our kitchen.
+The Heinz ketchup bottle is always hard to empty.
+Oreo cookies taste better with a glass of milk.
+He wears a Casio watch his father gave him.
+The Honda motorcycle has carried him to work for years.
+The Nissan was parked right next to the fire station.
+The Suzuki jeep climbed the muddy mountain road easily.
+My sister keeps her notes in Notion.
+Our team plans every sprint in Jira.
+He learned to draw with a Wacom tablet.
+The GoPro camera was strapped to his helmet.
+The Kodak camera belonged to my grandfather.
+Skype was the way we called relatives abroad for years.
+Yahoo was once the most visited website in the world.
+The eBay seller shipped the watch from Japan.
+PayPal doesn't work with Iranian bank cards.
+The Visa card was declined at the hotel.
+Samsung and Apple fight over every new feature.
+Snapchat filters gave everyone dog ears.
+The Twitter account posted the news before the television did.
+He moved his blog from Blogger to WordPress.
+The Zoom call froze just as she started speaking.
+Tesla opened a new factory in Germany.
+The Microsoft Office license comes with the laptop.
+The Canon lens is heavier than the camera itself.
+The Rolex watch was the most expensive thing in the shop.
+Lego sets for adults are surprisingly popular.
+The Disney castle was lit up with fireworks.
+IKEA furniture comes in flat boxes with a tiny key.
+The Zara shop changes its window display every week.
+Amazon Kindle books are cheaper than printed ones.
+My Gmail account is older than my younger brother.
+The Google search took less than a second.
+The Apple store was crowded on the first day of the sale.
+# More brands.
+He bought a used Toyota Prius for city driving.
+The Samsung washing machine plays a little song when it's done.
+Our Philips lamp changes color with an app.
+The LG fridge has a screen on the door.
+She uses a Dell laptop for work and a MacBook at home.
+I switched from Chrome to Firefox for privacy.
+The Google Pixel takes great photos in low light.
+Apple Music and Spotify offer almost the same songs.
+He watches football highlights on YouTube every morning.
+Telegram groups for neighbors share everything from news to lost cats.
+Our family WhatsApp group has forty members.
+The Instagram shop sells hand painted plates.
+Netflix and YouTube use a lot of internet data.
+My brother drives a Peugeot Pars.
+The Kia Sportage is popular in Iran.
+The Honda Civic has been made for more than fifty years.
+The Nissan Patrol climbed the sand dunes easily.
+Mercedes and BMW trucks carry goods across the country.
+Our old Nokia phone had a game with a snake.
+She takes pictures with a Canon camera she bought in Dubai.
+The Sony PlayStation was the most popular gift that year.
+Nike and Adidas are fighting for the same customers.
+He only wears Puma trainers.
+The Lego museum in Denmark is full of tiny buildings.
+The IKEA kitchen took two days to assemble.
+The Starbucks in the airport was open all night.
+We had lunch at a McDonald's on the highway.
+The Coca-Cola truck parked outside the supermarket.
+The Nestle factory makes chocolate and coffee.
+Lipton sells tea in more than a hundred countries.
+The Microsoft keyboard came with the computer.
+Amazon's warehouses are full of robots.
+Google Maps sent us down a dirt road.
+Tesla's cars are charged at special stations.
+DHL delivered the package to the wrong building.
+The Emirates plane was the biggest I've ever seen.
+Turkish Airlines flies to more countries than any other airline.
+We flew Qatar Airways to Europe last summer.
+The Boeing factory is one of the largest buildings on Earth.
+The Airbus landed smoothly despite the wind.
+The Rolex store has a guard at the door.
+Zara sells new designs every few weeks.
+The Disney film was dubbed into Persian.
+The Nintendo Switch works on the TV and in your hands.
+Xbox and PlayStation owners argue about which is better.
+The Intel chip in this computer is ten years old.
+The NVIDIA card costs more than the rest of the computer.
+He uses an HP printer at his office.
+The Lenovo laptop is used by many students.
+The Asus router has four antennas.
+The Bosch drill is the most useful tool in the house.
+The Panasonic camera recorded the whole wedding.
+Toshiba made the first laptop computers.
+Canva makes it easy to design an invitation.
+Duolingo taught me a few words of Japanese.
+Wikipedia is written by volunteers.
+Reddit users found the lost dog in two hours.
+The Pinterest board was full of wedding ideas.
+Dropbox saved my thesis when my laptop died.
+The Zoom meeting had forty people in it.
+Skype was bought by Microsoft.
+LinkedIn sends me job offers I don't want.
+TikTok made the song famous overnight.
+Snapchat messages disappear after they are read.
+Uber cars are easy to find in big cities.
+PayPal is used by millions of online shops.
+eBay auctions end at a set time.
+Alibaba's founder was once an English teacher.
+Visa cards are accepted in most hotels.
+Mastercard sponsored the football tournament.
+The Heinz factory produces millions of bottles every day.
+Nutella is made with hazelnuts and chocolate.
+KitKat bars break into four pieces.
+Oreo cookies were first sold more than a century ago.
+The Pringles can fits exactly into my bag.
+Red Bull sponsors extreme sports.
+Pepsi is sweeter than Coca-Cola, some people say.
+The Casio calculator is allowed in the exam.
+Kodak cameras used to be in every home.
+The GoPro survived a fall from the bicycle.
+# Brands in everyday talk.
+I'll send you the photos on WhatsApp.
+Look it up on Google if you don't believe me.
+She posted the video on Instagram last night.
+He watched the whole match on YouTube.
+Let's order from Amazon, it's faster.
+I'll share the document on Google Drive.
+Can you send me the location on Google Maps?
+We had a meeting on Zoom this morning.
+He found the answer on Wikipedia.
+The song is on Spotify, but not on Apple Music.
+My phone runs Android, so the app isn't available.
+I switched from Windows to Linux last year.
+The iPhone and the iPad share the same apps.
+She joined LinkedIn to find a new job.
+I saw it on Facebook, so it might not be true.
+He's always on TikTok when he should be studying.
+Our class has a group on Telegram.
+She booked a taxi on Uber for the airport.
+The Netflix series is based on a true story.
+I use Microsoft Word for letters and Excel for my budget.
+The PowerPoint slides were beautiful, but the talk was boring.
+The Google search turned up nothing useful.
+He bought the headphones on Amazon for half the price.
+I listen to podcasts on Spotify while I cook.
+The YouTube tutorial explained it better than my teacher.
+She keeps her recipes in Google Docs.
+Our family photos are all on Google Photos.
+The WhatsApp call kept dropping.
+He deleted TikTok to focus on his exams.
+The Instagram page has beautiful photos of Iran.
+# Companies and products in the news.
+Apple announced a new phone and a new watch.
+Samsung sold more phones than anyone else last year.
+Google was fined by the European Union.
+Microsoft bought a famous video game company.
+Amazon opened a shop without cashiers.
+Tesla's share price rose after the announcement.
+Toyota recalled thousands of cars because of a faulty part.
+Netflix lost subscribers for the first time in years.
+Meta is building a virtual world for work and play.
+Nvidia became one of the most valuable companies in the world.
+Intel is building a new factory in Europe.
+Sony released a new version of its game console.
+Nike opened its biggest store in Shanghai.
+IKEA will buy back old furniture from its customers.
+Coca-Cola changed the shape of its bottle.
+Boeing delivered its first plane of the year.
+Airbus won a huge order from an Asian airline.
+Lego started making bricks from recycled plastic.
+Spotify added audiobooks to its app.
+Uber started delivering groceries in some cities.
+Adobe added artificial intelligence to Photoshop.
+Disney opened a new park in Asia.
+Starbucks raised the price of its coffee.
+McDonald's added a spicy burger to its menu.
+Volkswagen is switching to electric cars.
+Honda and Sony are building a car together.
+Huawei launched a phone with its own operating system.
+Canon and Nikon are competing for the camera market.
+Zara's owner is one of the richest people in Spain.
+Rolex watches are more expensive every year.
+# Short sentences with brands.
+Just Google it.
+Send it on WhatsApp.
+I'll check Instagram later.
+Put it on Netflix.
+It's on YouTube.
+He drives a Toyota.
+She wears Nike shoes.
+Order it from Amazon.
+Search on Google Maps.
+It's a Samsung phone.
+I use an iPhone.
+Let's meet on Zoom.
+Pay with PayPal.
+I play on PlayStation.
+We shop at IKEA.
+Add me on LinkedIn.
+Is that a Rolex?
+Buy me a Coca-Cola.
+I'm on Telegram.
+Open it in Chrome.
+# Brands and products, more.
+The Apple Pencil is great for drawing.
+The Samsung tablet comes with a pen.
+The Google Pixel phone has an excellent camera.
+My mother's Toyota has never broken down.
+The Nike running shoes are light and comfortable.
+The Adidas jacket kept me warm on the mountain.
+The Sony speaker is small but very loud.
+Our Bosch dishwasher is almost silent.
+The LG screen has amazing colors.
+The Philips toothbrush vibrates every thirty seconds.
+The Canon camera is heavy but takes beautiful photos.
+The Lenovo keyboard is the best I've ever used.
+The Dell laptop at work is slow and old.
+The HP printer makes a lot of noise.
+The Microsoft mouse fits my hand perfectly.
+The Intel chip in my phone is fast.
+The Kindle battery lasts for weeks.
+The Nintendo game made the whole family laugh.
+The PlayStation controller needs new batteries.
+The Xbox is connected to the big television.
+The Tesla drove in complete silence.
+The BMW was parked in the wrong place.
+The Mercedes van carried twelve passengers.
+The Volkswagen Golf is a popular family car.
+The Honda scooter is cheap to run.
+The Toyota Land Cruiser can cross the desert.
+The Nissan Leaf was one of the first electric cars.
+The Porsche is fast, but it has no room for luggage.
+The Ferrari is bright red, of course.
+The Lamborghini sounds like a jet plane.
+# Brands, final batch.
+She upgraded to the newest iPhone as soon as it came out.
+The Samsung fridge tells you when the milk is running out.
+He learned English by watching Netflix with subtitles.
+Our family photos from the trip are all on Google Photos.
+The YouTube video about bread baking changed my life.
+I bought my sister a Kindle for her birthday.
+The PlayStation game is set in ancient Greece.
+My father trusts only his old Nokia.
+The Toyota Hilux is used on farms all over the world.
+The Nike swoosh is one of the most famous logos in the world.
+The IKEA store has a restaurant that sells meatballs.
+The Coca-Cola advertisement at Christmas is famous.
+The Starbucks logo is a mermaid with two tails.
+The McDonald's arches are recognized everywhere.
+The Apple logo has a bite taken out of it.
+Google started in a garage in California.
+Microsoft Windows runs on most office computers.
+The Instagram photo got more likes than any other.
+WhatsApp is free to use, even for international calls.
+Telegram lets you send very large files.
+Amazon delivers packages with drones in some places.
+Spotify pays artists for every song that's played.
+Zoom became famous almost overnight.
+Tesla makes batteries for homes as well as cars.
+LinkedIn is full of people congratulating each other.
+# Brands, once more.
+The WhatsApp update added a new privacy setting.
+The Instagram algorithm decides what I see first.
+The YouTube channel teaches Persian cooking in English.
+The Google Translate app can read signs through the camera.
+The Netflix documentary made me stop eating sugar.
+The Amazon box was bigger than the thing inside it.
+Spotify's yearly summary showed I listened to one song all year.
+Apple's new laptop is lighter than a bag of rice.
+The Samsung phone survived a fall from the balcony.
+Microsoft Teams is used by most companies in our city.
+The Telegram group has thousands of members.
+Toyota trucks are used in every village in the country.
+The BMW motorcycle is surprisingly quiet.
+The Sony camera records in slow motion.
+LinkedIn helped me find my current job.
+Uber drivers in this city are very friendly.
+The Nike store has a running track on the roof.
+The Adidas logo has three stripes.
+IKEA names its furniture after places in Sweden.
+The Lego set had more than a thousand pieces.
+# Brands in questions.
+Do you have WhatsApp?
+Are you on Instagram?
+Have you seen this on YouTube?
+Is this a Samsung or an iPhone?
+Did you order it from Amazon?
+Do you use Google Maps or another app?
+Have you watched this series on Netflix?
+Is your laptop a Dell or a Lenovo?
+Do you prefer Nike or Adidas?
+Can I pay with PayPal?
+Is there a Starbucks near here?
+Do you have Telegram on your phone?
+Have you tried the new version of ChatGPT?
+Is the meeting on Zoom or on Teams?
+Do you listen to music on Spotify?
+# Brands: comparisons.
+Some people prefer Android phones, others love iPhones.
+Google Docs is simpler than Microsoft Word.
+Spotify and YouTube Music offer similar playlists.
+Toyota cars last longer than most, people say.
+PlayStation and Xbox games are often the same.
+Instagram is for photos, TikTok is for short videos.
+Zoom was once more popular than Google Meet.
+Coca-Cola is older than Pepsi.
+Nike sells more shoes than Adidas.
+Netflix has more series than most channels.
+# Brands: last batch.
+She found a cheap flight through Google.
+The YouTube channel posts a new video every Friday.
+My old Samsung phone still works as an alarm clock.
+The Nike shop was full of runners before the marathon.
+We watched the final on a big Sony screen.
+The Toyota taxi had more than half a million kilometers on it.
+He keeps his notes in Microsoft OneNote.
+The Apple store fixed my screen in an hour.
+The IKEA table was surprisingly easy to build.
+The Starbucks coffee was too sweet for me.
