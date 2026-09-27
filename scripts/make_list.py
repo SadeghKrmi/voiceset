@@ -57,13 +57,34 @@ def vaguye_source() -> dict:
     return source
 
 
+def transcribe(rows) -> list:
+    """Set each verified row's `transcript` (what Kokoro said, in molana's
+    conventions) and return the rows kept; a row whose transcript holds a symbol
+    molana's transcripts never use is rejected instead."""
+    kept = []
+    for row in rows:
+        transcript = molana_transcript(row["phonemes"]).strip()
+        foreign = sorted(set(transcript) - TRANSCRIPT_SYMBOLS)
+        if foreign:
+            reject(row, "symbols molana's transcripts do not use: " + " ".join(foreign))
+            continue
+        row["transcript"] = transcript
+        kept.append(row)
+    return kept
+
+
+def verified(cfg, manifest, speaker=None) -> list:
+    """The verified rows whose sentence is still in the sentence files."""
+    current = {row["filename"] for row in clips(cfg)}
+    return [r for r in manifest.at("ok", speaker) if r["filename"] in current]
+
+
 def main():
     args = parse_args(__doc__.splitlines()[1], extra)
     cfg = load_config(args.config)
     manifest = Manifest(cfg["output"])
 
-    current = {row["filename"] for row in clips(cfg)}
-    rows = [r for r in manifest.at("ok", args.speaker) if r["filename"] in current]
+    rows = verified(cfg, manifest, args.speaker)
     if not rows:
         sys.exit("no verified clips to list")
 
@@ -75,15 +96,7 @@ def main():
         sys.exit(f"set molana_id in the config for: {', '.join(unset)} — the speaker "
                  "column of molana's training list for the same voice")
 
-    listed = []
-    for row in rows:
-        transcript = molana_transcript(row["phonemes"]).strip()
-        foreign = sorted(set(transcript) - TRANSCRIPT_SYMBOLS)
-        if foreign:
-            reject(row, "symbols molana's transcripts do not use: " + " ".join(foreign))
-            continue
-        row["transcript"] = transcript
-        listed.append(row)
+    listed = transcribe(rows)
     manifest.save()
 
     out = cfg["output"] / "molana"

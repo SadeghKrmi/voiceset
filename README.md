@@ -168,6 +168,25 @@ and point `data_params.train_data` / `val_data` in molana's config at the mixed
 lists. Keep the Persian data in: fine-tuning on English alone would pull the
 sounds both languages share toward English.
 
+## 5. Publish to the dataset
+
+The clips also go to the private
+[`SadeghK/molana-tts-audiosets`](https://huggingface.co/datasets/SadeghK/molana-tts-audiosets)
+dataset, as its `english/` subset beside `curated/` and `transcribed/`:
+
+```bash
+python scripts/pack_hf.py --batch 2026-09-kokoro-seedvc      # -> output/hf_english/
+hf upload SadeghK/molana-tts-audiosets output/hf_english english --repo-type dataset
+```
+
+It writes `wavs-<batch>.tar` (every verified clip under `wavs/`), and appends to
+`metadata.csv` (`speaker|filename|duration_seconds|text`, the other subsets'
+format), `phonemes.csv` (`speaker|filename|phonemes`, the transcript to train
+on — make_list.py's), `scores.csv` (category, Kokoro voice and speed, CER, what
+Whisper heard) and `info-card.txt` (settings, versions, counts). For a later
+batch, seed `--out` with the Hub's current CSVs and info card first; filenames
+already in `metadata.csv` are refused.
+
 ## How the transcripts are made
 
 The transcript is **what Kokoro said**, not what vaguye would say for the text:
