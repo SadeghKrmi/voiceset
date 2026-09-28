@@ -10,6 +10,9 @@ training lists. README.md is the runbook.
   run as `python scripts/<stage>.py [--config] [--speaker] [--limit]`.
 - `scripts/pack_hf.py` — verified clips as one batch of the HF dataset's `english/`
   subset; shares make_list.py's `transcribe` and `verified`.
+- `scripts/make_ood.py` — English and mixed lines for molana's OOD texts (no
+  audio): English through Kokoro's G2P and `molana_transcript`, as transcripts
+  are; mixed through vaguye with native English, as molana reads at inference.
 - `scripts/tune.py` — seed-vc settings compared on a few sentences, in
   `<output>/_tune/`; outside the pipeline, it never touches the manifest.
 - `voiceset.yml` — the config; paths resolve against its folder.

@@ -156,17 +156,33 @@ python scripts/make_list.py
 
 ## 4. Add to molana
 
+molana's adversarial training also speaks lines of its OOD texts, which are all
+Persian. `make_ood.py` writes English ones — sentences not in the sentence
+files, phonemized exactly as the transcripts are — and, from Persian text with
+English words in it (FaPLBERT's `wikipedia-fa-mixed-norm-hamnevise-zirneshane.txt`
+on the Hub), mixed ones, phonemized by vaguye with native English:
+
 ```bash
-cp output/molana/wavs/* /root/molana/datasets/resampled/
-cat /root/molana/datasets/train_list_max12.5s.txt output/molana/train_list_en.txt \
-    > /root/molana/datasets/train_list_mixed.txt
-cat /root/molana/datasets/val_list_without_shorts.txt output/molana/val_list_en.txt \
-    > /root/molana/datasets/val_list_mixed.txt
+python scripts/make_ood.py --english /root/FaPLBERT/datasets/wikipedia-en-sentences.txt \
+    --mixed wikipedia-fa-mixed-norm-hamnevise-zirneshane.txt     # -> output/molana/OOD_texts_{en,mixed}.txt
 ```
 
-and point `data_params.train_data` / `val_data` in molana's config at the mixed
-lists. Keep the Persian data in: fine-tuning on English alone would pull the
-sounds both languages share toward English.
+Then, in molana, each Persian file followed by its English one (`awk 1` rather
+than `cat`: OOD_texts.txt has no final newline), and the clips next to the
+Persian ones:
+
+```bash
+cd /root/molana && V=/root/voiceset/output/molana
+awk 1 datasets/train_list_max12.5s.txt $V/train_list_en.txt > datasets/train_list_fa_en.txt
+awk 1 datasets/val_list_without_shorts.txt $V/val_list_en.txt > datasets/val_list_fa_en.txt
+awk 1 datasets/OOD_texts.txt $V/OOD_texts_en.txt $V/OOD_texts_mixed.txt > datasets/OOD_texts_fa_en.txt
+cp $V/wavs/* datasets/resampled/
+```
+
+`configs/config_ft.yml` reads those, for `molana train-finetune` — stage 2 alone
+cannot learn the new symbols (molana's docs/TRAINING.md). Keep the Persian data
+in: fine-tuning on English alone would pull the sounds both languages share
+toward English.
 
 ## 5. Publish to the dataset
 
